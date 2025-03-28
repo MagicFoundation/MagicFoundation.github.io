@@ -1,0 +1,1691 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.14.1"
+    },
+    "node": {
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "can_see_insights_as_brand": false,
+        "caption_is_edited": false,
+        "clips_music_attribution_info": {
+            "artist_name": "Doechii",
+            "audio_id": "953905166868649",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Anxiety",
+            "uses_original_audio": false
+        },
+        "coauthor_producers": [],
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": true,
+            "number_of_qualities": 2,
+            "video_dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT17.159546S\" FBManifestIdentifier=\"FgAYEGlnX2Rhc2hfYmFzZWxpbmUZNqjo38jmmpgChqaY29G+sQLs4JucwafJBCIYGGRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIA\"><Period id=\"0\" duration=\"PT17.159546S\"><AdaptationSet id=\"0\" contentType=\"video\" subsegmentAlignment=\"true\" par=\"9:16\" FBUnifiedUploadResolutionMos=\"360:87.5\"><SupplementalProperty schemeIdUri=\"urn:mpeg:mpegB:cicp:TransferCharacteristics\" value=\"1\"/><Representation id=\"616186954643988vd\" bandwidth=\"2016646\" codecs=\"avc1.64001f\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_baseline_1_v1\" FBContentLength=\"4293777\" FBPlaybackResolutionMos=\"0:100,360:91.1,480:86.7,720:79.5,1080:72.2\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:96.8,480:95.5,720:92.8,1080:86.8\" FBAbrPolicyTags=\"\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBDefaultQuality=\"1\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMC0LiCxIZ74CQFw2xLqVAjy7VgBpNPlrYeUJsA9S7vDbwmfdM-QGEJFWLXDIfjMZODapEy4DnCpvnHD6AXjyFE6_ZwfC2EO-H9LOQ.mp4?_nc_cat=107&amp;_nc_oc=AdnCg9myhHxK56teotkkThgr1xf6e9rg9NZlJR1hG76jLY4qFZ9j6viHk7aGQgVuPOA&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=f9A16Kxw2YEQ7kNvgFTV0om&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOi0xLCJ4cHZfYXNzZXRfaWQiOjEzMTU0NDMxMzk3MjUwMzMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYH6Lv83s0byvv6pn4xd7GKaLBHyWsriO7aQihNQwg0H-A&amp;oe=67E89018</BaseURL><SegmentBase indexRange=\"892-971\" timescale=\"15360\" FBMinimumPrefetchRange=\"972-165220\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"972-702767\" FBFirstSegmentRange=\"972-1341684\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1341685-2860415\" FBPrefetchSegmentRange=\"972-1341684\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-891\"/></SegmentBase></Representation><Representation id=\"1287107373135926v\" bandwidth=\"322522\" codecs=\"avc1.4d001e\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_baseline_3_v1\" FBContentLength=\"686704\" FBPlaybackResolutionMos=\"0:100,360:71.8,480:65.2,720:53.6,1080:40.5\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:86.4,480:80.3,720:68.5,1080:54.6\" FBAbrPolicyTags=\"\" width=\"360\" height=\"640\" frameRate=\"15360/512\" FBQualityClass=\"sd\" FBQualityLabel=\"360p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMa1azMjQnKDTo2JRghHhczJnbDUZgLqmtIhEStAtxYVFbbqjsOFHqVShLToqm_-I9r0tB46EQ-VDdM7RoBXd6emVHQIsmupkYjgxM.mp4?_nc_cat=104&amp;_nc_oc=AdkaSc4CTgstNftBJr4EHMse0SGEQ-G7Ae3N3hT6V_daYJUqRWvPAtt-eCNhMFy1Bss&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=A_aaOH98nuUQ7kNvgHdABQa&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOi0xLCJ4cHZfYXNzZXRfaWQiOjEzMTU0NDMxMzk3MjUwMzMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYEtI113Wb3-UTKVGDuDr42xs0O0HYqbYWhRGHBKfF2hoA&amp;oe=67E89485</BaseURL><SegmentBase indexRange=\"887-966\" timescale=\"15360\" FBMinimumPrefetchRange=\"967-37862\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"967-114642\" FBFirstSegmentRange=\"967-210721\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"210722-457434\" FBPrefetchSegmentRange=\"967-210721\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-886\"/></SegmentBase></Representation></AdaptationSet><AdaptationSet id=\"1\" contentType=\"audio\" subsegmentStartsWithSAP=\"1\" subsegmentAlignment=\"true\"><Representation id=\"671778212088195ad\" bandwidth=\"66739\" codecs=\"mp4a.40.5\" mimeType=\"audio/mp4\" FBAvgBitrate=\"66739\" audioSamplingRate=\"44100\" FBEncodingTag=\"dash_ln_heaac_vbr3_audio\" FBContentLength=\"144114\" FBPaqMos=\"91.22\" FBAbrPolicyTags=\"\" FBDefaultQuality=\"1\"><AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQOsznsBCxxcXIuaRmmQnmpLa9S2b5WkS69-utJJQdUszUctC5zd6fNu4bZ2M3x2ZF5KH31CTO7a-mOOHti9c-em.mp4?strext=1&amp;_nc_cat=110&amp;_nc_oc=AdkvZqg6N5_OSjU8Nfpi_OMT5j6eL54bmvnnMpC8nUfePqXtm2DIb8nUQhYnNtvM1zA&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=ajs6KKPjhjEQ7kNvgFQti4j&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOi0xLCJ4cHZfYXNzZXRfaWQiOjEzMTU0NDMxMzk3MjUwMzMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYFxSsQL98OTjFpjbHnA4CbGZKXYMZJCD2POkJ1xWgMoQw&amp;oe=67EC7C9E</BaseURL><SegmentBase indexRange=\"824-963\" timescale=\"44100\" FBMinimumPrefetchRange=\"964-1307\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"964-21388\" FBFirstSegmentRange=\"964-18047\" FBFirstSegmentDuration=\"2021\" FBSecondSegmentRange=\"18048-34129\" FBPrefetchSegmentRange=\"964-34129\" FBPrefetchSegmentDuration=\"4017\"><Initialization range=\"0-823\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n"
+        },
+        "dimensions": {
+            "height": 1137,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFpPzTcO8WZZe6lca-yTzoA8qStDDJbM164saXsuGTG-A&oe=67EC8EAF&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFpPzTcO8WZZe6lca-yTzoA8qStDDJbM164saXsuGTG-A&oe=67EC8EAF&_nc_sid=d885a2"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFpPzTcO8WZZe6lca-yTzoA8qStDDJbM164saXsuGTG-A&oe=67EC8EAF&_nc_sid=d885a2"
+            }
+        ],
+        "display_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFpPzTcO8WZZe6lca-yTzoA8qStDDJbM164saXsuGTG-A&oe=67EC8EAF&_nc_sid=d885a2",
+        "edge_liked_by": {
+            "count": 2205
+        },
+        "edge_media_preview_comment": {
+            "count": 41,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1742746553,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18045834950586294",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "58364682875",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                            "username": "droey.fpv"
+                        },
+                        "text": "@parimal_2811_2 Yes!!! Stay tuned \ud83d\ude09\ud83d\ude80",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1742746601,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18057638123108822",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "58364682875",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                            "username": "droey.fpv"
+                        },
+                        "text": "@vdm340 Thanks a lot!",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 2205,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "created_at": "1741520305",
+                        "id": "17924865711030264",
+                        "text": "Save & Share this Easy Move! \ud83d\udcbe\n\nMade by using the spotlight mode \ud83d\udca1\n\nCamera Settings:\n\n4k 30fps - 1/80 - ND16 - ISO 100 - WB 5700K\n10bit - D Cinelike\n\nExport:\n\nH.265 - 1080p - MP4\n\nShot on @djiglobal mini 3 pro \ud83d\ude81\n\nFollow my page for more! \ud83d\ude80\n\n#droneoftheday #djimini3pro #drone #dronetutorial #cinematicsettings #cinematicdrone #droneshot #dronereel #dronebeginner #djicreator #djimini4pro #djiflip #djineo #djimavicair #djimavic3pro #videography #tutodrone"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 41
+        },
+        "edge_media_to_hoisted_comment": {
+            "edges": []
+        },
+        "edge_media_to_parent_comment": {
+            "count": 41,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1741523022,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741528040,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "id": "18030604802330209",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@mintadventures_ It's throttle up a bit left and left stick up and a bit in the right (mode 2) make sure to use the spotlight mode to assist you with the tracking \ud83d\ude01 \u2196\ufe0f\u27a1\ufe0f",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1741530521,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18124205260423578",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58592909435",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/440004705_1209111210461906_2600874702612539490_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KKd9k-yrAUgQ7kNvgFEJdwP&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEpztATMPD77a5FPCjmjHs1v_uK6Xb7ODsF7Ghnqthvuw&oe=67EC8511&_nc_sid=d885a2",
+                                            "username": "mintadventures_"
+                                        },
+                                        "text": "@droey.fpv thank you!",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1741530954,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18164845789332733",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@mintadventures_ \ud83d\ude09",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18083559346609527",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "58592909435",
+                            "is_verified": true,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/440004705_1209111210461906_2600874702612539490_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KKd9k-yrAUgQ7kNvgFEJdwP&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEpztATMPD77a5FPCjmjHs1v_uK6Xb7ODsF7Ghnqthvuw&oe=67EC8511&_nc_sid=d885a2",
+                            "username": "mintadventures_"
+                        },
+                        "text": "Great but i cant really see your moves with sticks/ controllers; i think \u2198\ufe0f\u2197\ufe0f\u27a1\ufe0f\u2199\ufe0f\u2196\ufe0f\u2b05\ufe0f\u2b07\ufe0f\u2b06\ufe0f would help a lot\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741522315,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741522452,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "18137104990385264",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@its.styam Will restart a set of cinematic drone tutorials, stay tuned \ud83d\ude09",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18335168248086178",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "52833600523",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/311779497_2659883680808640_4250891258748140463_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=VqhZZbTC1KkQ7kNvgGrrV61&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYHAhjh2G1u4larEk_ZmXBZBe127psQeDL9bN4XvixC5iw&oe=67EC707B&_nc_sid=d885a2",
+                            "username": "its.styam"
+                        },
+                        "text": "Need some more content \u2764\ufe0f\ud83d\ude4c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741520847,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741522479,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "18350317228198736",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@exploringwithjoran hahaha got a 3rd hand \ud83d\ude02",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1741525596,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18058606307292497",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "1765531023",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/476312084_880210344066918_9186948658321920774_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=yGuM4ulH7dUQ7kNvgHhwARS&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYG8GZ6-VWE4mHaeeL4t44LGXcderV54LgFje8RfszcLvQ&oe=67EC8066&_nc_sid=d885a2",
+                                            "username": "exploringwithjoran"
+                                        },
+                                        "text": "@droey.fpv Yea I figured \ud83e\udd23",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18025955279646187",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1765531023",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/476312084_880210344066918_9186948658321920774_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=yGuM4ulH7dUQ7kNvgHhwARS&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYG8GZ6-VWE4mHaeeL4t44LGXcderV54LgFje8RfszcLvQ&oe=67EC8066&_nc_sid=d885a2",
+                            "username": "exploringwithjoran"
+                        },
+                        "text": "I\u2019m more impressed by how you film your controller while holding it with 2 hands \ud83d\ude06",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741522912,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741528056,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18034299563540503",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@dimitriskodaras \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18055121240125067",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2979135555",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/467893897_1771582036940685_3840196689231735708_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=m3kGVGcGol8Q7kNvgEP5gVg&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEOzaG9Z_7MF0RY6SRqiOYNnz_bgylk4kTo-0GyR66LfA&oe=67EC8A94&_nc_sid=d885a2",
+                            "username": "dimitriskodaras"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741562241,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741636812,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18026595641374058",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@im.effe All the info in caption \ud83d\ude01",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18033064640632422",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "250362604",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/470910290_2535651009957205_8666988602891920562_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=ZvzDN-R2pmQQ7kNvgH0-XvS&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYH6TK06bsdYl1I04X1L2b3pa9-PWIZEkCKuA_2d_0vY_g&oe=67EC89E4&_nc_sid=d885a2",
+                            "username": "im.effe"
+                        },
+                        "text": "Tell us about your settings for the shot please",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741521267,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741522379,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17853300183402989",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@elviscreative \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18037218542220687",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "5406068223",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/474929005_1838327996936301_3907129670901807041_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=b8iMpwl4yikQ7kNvgEMleHV&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYG6ImQzO2GT6AfpKC2Uj1PFCexgDSFCVv2BdxqkjSzUDg&oe=67EC8308&_nc_sid=d885a2",
+                            "username": "elviscreative"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741523061,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741527496,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18066635653909911",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@julii_marcos Thanks a lot my bro!!!! \ud83d\ude4c\ud83d\udd25",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17924388639022337",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "38236109583",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/476846409_606771232062940_6686652711636593739_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=tp2P3yHtSJkQ7kNvgHvRu7m&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYF2Tyr1RVMG6MXHHfS2ff7KBgJltDzXpmmJi4sxjJJZ8g&oe=67EC78B2&_nc_sid=d885a2",
+                            "username": "julii_marcos"
+                        },
+                        "text": "So clean bro \ud83d\udd25\ud83d\udc4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741601852,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741607206,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18053064782328965",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@mikph21 YES I will definitely prepare a new set of tutorials ;)",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18094325845545011",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "280946587",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/106744336_2938984942876667_6240206706948995559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=SMvVW1iOm6sQ7kNvgGUjlEh&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYHgfbFRtlWI6L947PGa4nMYNtCTzrgd_zoWyNtijV20tA&oe=67EC83F7&_nc_sid=d885a2",
+                            "username": "mikph21"
+                        },
+                        "text": "Need more video like this please \ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1742578714,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1742746553,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18045834950586294",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@parimal_2811_2 Yes!!! Stay tuned \ud83d\ude09\ud83d\ude80",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18080988388645149",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "12623144580",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/482598653_627105636694162_1822349769253356398_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=tLC_vhGCzL4Q7kNvgGqI7jG&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYE2Oc0WjjSobFP_ITh0Xz3oPvVymwTAC_qeJYdmZQQqwQ&oe=67EC796F&_nc_sid=d885a2",
+                            "username": "parimal_2811_2"
+                        },
+                        "text": "Would love to see this type of tutorial videos in your up coming reels. Plzz continue doing it, it's very helpful.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741589598,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741636797,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18062677483794008",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@arek_pekala \ud83d\ude4c\ud83d\ude4c",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18332568562086202",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "61982647891",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/484794043_2027913527734183_4242648865576521076_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=SBlnfFoJjD8Q7kNvgEU_lIH&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFepmV5MJDucQOHHA2CSt_nkNSqf8SI6EaRiRKWFn27YA&oe=67EC8285&_nc_sid=d885a2",
+                            "username": "arek_pekala"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741522608,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741522714,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18094178665554179",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@tiid0928 \ud83d\ude01",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18059770373090576",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2452950524",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/470310320_1571531647067577_8705013840074947270_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=QgM7UMqehYQQ7kNvgHS4k9v&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYH1OFL9QsP3wxJkXLpROTYbkrHU0ozP0wwQOh9N-N-gQw&oe=67EC7835&_nc_sid=d885a2",
+                            "username": "tiid0928"
+                        },
+                        "text": "Woooow\ud83d\ude2e",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741975273,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1742024536,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18180980197315161",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@voecomigonf Thank you \ud83d\ude01",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17952442556923786",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "72395445833",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/482860767_988596802741416_1705529767961733063_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=HlEJqNfnAdsQ7kNvgGvy_2u&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFnSbMpznkiyj4p_yXa-6_vGu_oQ5taLrNSgF23n0O1Rw&oe=67EC7C77&_nc_sid=d885a2",
+                            "username": "voecomigonf"
+                        },
+                        "text": "Awesome \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741597936,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741636821,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18183493045312678",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@iamcollinsnkem Thank you my friend!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17963592056893608",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "2135260700",
+                            "is_verified": true,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/453330707_790661219948599_2963281391685913721_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=1nCMvk8CAcwQ7kNvgFC-AW6&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYHUZZlzWdqUuWjlIsCkPf_03DKxNk9fGFF05Eb4ixKlrg&oe=67EC8660&_nc_sid=d885a2",
+                            "username": "iamcollinsnkem"
+                        },
+                        "text": "Amazing!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741607391,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741636843,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18034115654562056",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@mikph21 Thank you for your comment! \ud83d\udcaf",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17897369076164143",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "280946587",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/106744336_2938984942876667_6240206706948995559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=SMvVW1iOm6sQ7kNvgGUjlEh&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYHgfbFRtlWI6L947PGa4nMYNtCTzrgd_zoWyNtijV20tA&oe=67EC83F7&_nc_sid=d885a2",
+                            "username": "mikph21"
+                        },
+                        "text": "Great thank you so much",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741816759,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1741849017,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18007714727541098",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@agrisuissevd Hey! Ouiii \ud83d\udd25\ud83c\udff0",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18114577696456138",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "55067817689",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/470795757_524937487179500_1230172816901211052_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=lqcFb4SwhiMQ7kNvgF8UkLw&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYF6qsF8NJ_60-Rzn62veVg2daS_zC1Q2V12qU2nfSgUAA&oe=67EC6D63&_nc_sid=d885a2",
+                            "username": "agrisuissevd"
+                        },
+                        "text": "Hey ! Dans le Vallon de l\u2019Aubonne !",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1742442143,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1742573741,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "18317982256206929",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@vdm340 Work smarter not harder haha but in reality I still prefer to do the moves manually since sometimes tracking sucks",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1742577949,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18035972372256555",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "72333459216",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/482307238_3655298594777114_792248847616512287_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KL0NsRlOsG0Q7kNvgFa40_-&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFA-TdOXASwbhPaDmL35wCknWrKn5mZMLjQL5uWSW9_lA&oe=67EC8419&_nc_sid=d885a2",
+                                            "username": "vdm340"
+                                        },
+                                        "text": "@droey.fpv honestly I like it but the stuff I shoot wouldn't be useful. The video is awesome though",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1742746601,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18057638123108822",
+                                        "is_restricted_pending": false,
+                                        "owner": {
+                                            "id": "58364682875",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+                                            "username": "droey.fpv"
+                                        },
+                                        "text": "@vdm340 Thanks a lot!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18345992815147059",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "72333459216",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/482307238_3655298594777114_792248847616512287_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KL0NsRlOsG0Q7kNvgFa40_-&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYFA-TdOXASwbhPaDmL35wCknWrKn5mZMLjQL5uWSW9_lA&oe=67EC8419&_nc_sid=d885a2",
+                            "username": "vdm340"
+                        },
+                        "text": "Here I am doing everything manually without tracking and everyone else is cheating\ud83d\ude02",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741528334,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18499334575012591",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "54096111947",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/342734395_3396523610587356_2371345737851726822_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=z71n9OUkHUoQ7kNvgGqXNdm&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEAPwPo9qVUtmbNCfILZjv4ReSu8V_WG38s9kn1_NFz-w&oe=67EC8437&_nc_sid=d885a2",
+                            "username": "craft_of_cinechef"
+                        },
+                        "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741746703,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18096550624524037",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "72257432741",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/473194972_1610129399877018_4925077618922583912_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=Kn0EMucua-YQ7kNvgHw_4ab&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGLNJa8Ae93_sYl9i64NMaoEjaRKKENigd_qayroMj91g&oe=67EC77C2&_nc_sid=d885a2",
+                            "username": "airplane_man01"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1741886172,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17935374555004446",
+                        "is_restricted_pending": false,
+                        "owner": {
+                            "id": "1537285126",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/446061345_475218961645725_583129090654747833_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=GUyuiwwi7YAQ7kNvgGIY9a3&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGcaue0C6336U6F3wpbcDbFVO-5-p4Xe_Clwy6U8Mwgng&oe=67EC982A&_nc_sid=d885a2",
+                            "username": "imatkaymaz"
+                        },
+                        "text": "More content \ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "{\"bifilter_token\": \"KJkBAAEdpfEirj8ABXeih7dKQACKv3TBpsc_AIvu5H8JJUAAyn3ayBxbQACP9fEzwRRAABAt0PVDKUAAHdkXKpA8QAAevkPNILg_AKL-Uga9I0EAZtYdDPoQQACo8HCzytE_AOstLsWCCkAAL-Yy9o-VPwDvuuz5C7lBADNQeYixSEAAM3jMUJUtQQB3HSHD5j5AADqx9rxfIUEAAA==\"}",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "3584450434890378186@307988454",
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "DJI",
+                            "id": "307988454",
+                            "is_verified": true,
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/472814773_1272356353984288_2071811813544321331_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=hjSBC5sCXgAQ7kNvgFhyQiR&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEBbcNEAxRTrtlrpp5b5x8SUEbxUbBarOUxliUFm8ML8w&oe=67EC8965&_nc_sid=d885a2",
+                            "username": "djiglobal"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_ranked_comments": true,
+        "id": "3584450434890378186",
+        "iphone_struct": {
+            "are_remixes_crosspostable": true,
+            "avatar_stickers": [],
+            "boost_unavailable_identifier": null,
+            "boost_unavailable_reason": null,
+            "boost_unavailable_reason_v2": null,
+            "can_reply": false,
+            "can_see_insights_as_brand": false,
+            "can_view_more_preview_comments": false,
+            "can_viewer_reshare": true,
+            "can_viewer_save": true,
+            "caption": {
+                "bit_flags": 0,
+                "content_type": "comment",
+                "created_at": 1741520305,
+                "created_at_utc": 1741520305,
+                "did_report_as_spam": false,
+                "is_covered": false,
+                "is_ranked_comment": false,
+                "media_id": 3584450434890378186,
+                "pk": "17924865711030264",
+                "private_reply_status": 0,
+                "share_enabled": false,
+                "status": "Active",
+                "strong_id__": "17924865711030264",
+                "text": "Save & Share this Easy Move! \ud83d\udcbe\n\nMade by using the spotlight mode \ud83d\udca1\n\nCamera Settings:\n\n4k 30fps - 1/80 - ND16 - ISO 100 - WB 5700K\n10bit - D Cinelike\n\nExport:\n\nH.265 - 1080p - MP4\n\nShot on @djiglobal mini 3 pro \ud83d\ude81\n\nFollow my page for more! \ud83d\ude80\n\n#droneoftheday #djimini3pro #drone #dronetutorial #cinematicsettings #cinematicdrone #droneshot #dronereel #dronebeginner #djicreator #djimini4pro #djiflip #djineo #djimavicair #djimavic3pro #videography #tutodrone",
+                "type": 1,
+                "user": {
+                    "fbid_v2": 17841458406255585,
+                    "full_name": "DROEY | Drone Pilot",
+                    "id": "58364682875",
+                    "is_private": false,
+                    "is_unpublished": false,
+                    "is_verified": false,
+                    "pk": 58364682875,
+                    "pk_id": "58364682875",
+                    "profile_pic_id": "3345514123573921210_58364682875",
+                    "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AYFYbz490TTsB9-IKqm_YkG98dou5HwpnX_toirwHbHPhg&oe=67EC896B&_nc_sid=fc8dfb",
+                    "strong_id__": "58364682875",
+                    "username": "droey.fpv"
+                },
+                "user_id": 58364682875
+            },
+            "caption_is_edited": false,
+            "client_cache_key": "MzU4NDQ1MDQzNDg5MDM3ODE4Ng==.3",
+            "clips_metadata": {
+                "achievements_info": {
+                    "num_earned_achievements": null,
+                    "show_achievements": false
+                },
+                "additional_audio_info": {
+                    "additional_audio_username": null,
+                    "audio_reattribution_info": {
+                        "should_allow_restore": false
+                    }
+                },
+                "asset_recommendation_info": null,
+                "audio_ranking_info": {
+                    "best_audio_cluster_id": "953905166868649"
+                },
+                "audio_type": "licensed_music",
+                "branded_content_tag_info": {
+                    "can_add_tag": false
+                },
+                "breaking_content_info": null,
+                "breaking_creator_info": null,
+                "challenge_info": null,
+                "clips_creation_entry_point": "clips",
+                "content_appreciation_info": {
+                    "enabled": false,
+                    "entry_point_container": null
+                },
+                "contextual_highlight_info": null,
+                "cutout_sticker_info": [],
+                "disable_use_in_clips_client_cache": false,
+                "external_media_info": null,
+                "featured_label": null,
+                "is_fan_club_promo_video": false,
+                "is_public_chat_welcome_video": false,
+                "is_shared_to_fb": false,
+                "mashup_info": {
+                    "can_toggle_mashups_allowed": false,
+                    "formatted_mashups_count": null,
+                    "has_been_mashed_up": true,
+                    "has_nonmimicable_additional_audio": true,
+                    "is_creator_requesting_mashup": false,
+                    "is_light_weight_check": true,
+                    "is_light_weight_reuse_allowed_check": false,
+                    "is_pivot_page_available": false,
+                    "is_reuse_allowed": true,
+                    "mashup_type": null,
+                    "mashups_allowed": true,
+                    "non_privacy_filtered_mashups_media_count": 1,
+                    "original_media": null,
+                    "privacy_filtered_mashups_media_count": null
+                },
+                "merchandising_pill_info": null,
+                "music_canonical_id": "18470320870064621",
+                "music_info": {
+                    "music_asset_info": {
+                        "allows_saving": true,
+                        "artist_id": "3077452875873360",
+                        "audio_asset_id": "1886258452167620",
+                        "audio_cluster_id": "953905166868649",
+                        "cover_artwork_thumbnail_uri": "https://scontent.fzrh2-2.fna.fbcdn.net/v/t39.30808-6/481213834_90029647324406_7480238013473506050_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=33I-t_BcO9sQ7kNvgGNtByG&_nc_oc=AdnDoEQ3404phcEQuLUSQ7P14fVFkYcut7v75XyYFL0M8wPm5-Zi8YGpUb8giKf9HMc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fzrh2-2.fna&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&oh=00_AYEkmQO4JRi5yKZ0znSyRK5VmcdFi3R1RUa1sDNwBCswxA&oe=67EC7A1A",
+                        "cover_artwork_uri": "https://scontent.fzrh2-2.fna.fbcdn.net/v/t39.30808-6/481213834_90029647324406_7480238013473506050_n.jpg?stp=dst-jpg_s168x128_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f2557&_nc_ohc=33I-t_BcO9sQ7kNvgGNtByG&_nc_oc=AdnDoEQ3404phcEQuLUSQ7P14fVFkYcut7v75XyYFL0M8wPm5-Zi8YGpUb8giKf9HMc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fzrh2-2.fna&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&oh=00_AYEkmQO4JRi5yKZ0znSyRK5VmcdFi3R1RUa1sDNwBCswxA&oe=67EC7A1A",
+                        "dark_message": null,
+                        "dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT249.302307S\"><Period id=\"0\" duration=\"PT249.302307S\"><AdaptationSet id=\"0\" contentType=\"audio\" subsegmentStartsWithSAP=\"1\" subsegmentAlignment=\"true\"><Representation id=\"1025731802706199a\" bandwidth=\"49247\" codecs=\"mp4a.40.5\" mimeType=\"audio/mp4\" FBAvgBitrate=\"49247\" audioSamplingRate=\"44100\" FBDefaultQuality=\"1\"><AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/><BaseURL>https://scontent.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQPvRG1DgHxIIyZq_F3NLwqb5kK9rUCg5HVcGM4yqC4N0qb6KttLIFZRvjleDrJX0BRTAOhmoirQ8lyZK9MT5sMD.mp4?strext=1&amp;_nc_cat=1&amp;_nc_oc=AdkT9-E5ByEuwUokDTbz3wSzeEfJw3HyoV3q718dP8QqvIFbS5dE5KvW40ObdW6veaI&amp;_nc_sid=9ca052&amp;_nc_ht=scontent.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=Ai_HVmq8zEcQ7kNvgEyyJdT&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF80OF9mcmFnXzJfYXVkaW8iLCJ2aWRlb19pZCI6bnVsbCwiY2xpZW50X25hbWUiOiJ1bmtub3duIiwib2lsX3VybGdlbl9hcHBfaWQiOjI1NjI4MTA0MDU1OCwieHB2X2Fzc2V0X2lkIjo2MTA3MzA4MDUyODE5NzksInZpX3VzZWNhc2VfaWQiOjEwNTY4LCJkdXJhdGlvbl9zIjoyNDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYHYUFXDFIjeCaMWCn2ZboRlfw8MR_7a87oN2wDYZu4PWg&amp;oe=67EC938D</BaseURL><SegmentBase indexRange=\"824-2355\" timescale=\"44100\"><Initialization range=\"0-823\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n",
+                        "display_artist": "Doechii",
+                        "duration_in_ms": 249302,
+                        "fast_start_progressive_download_url": "https://scontent.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQNwcUXLbJLDrgLGz1YPMIu6vLDgXiUlq6tQsr7QzcG4ffC2XcnvrjAig1aFenYmksZH9A1yeqS-IP032Mo-FSmn.mp4?strext=1&_nc_cat=1&_nc_oc=AdkxAtj9ie_raQvt0LMrPJj1YRjR8kzI2LEDK1EmJnSTXYddC-AaRw0EO3pJntDKSsc&_nc_sid=8bf8fe&_nc_ht=scontent.fzrh2-2.fna.fbcdn.net&_nc_ohc=45G6tAYuhJYQ7kNvgEIJD4T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5BVURJT19PTkxZLi5DMy4wLnByb2dyZXNzaXZlX2F1ZGlvX2FhY3BfNDhfZnJhZ18yX2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjo2MTA3MzA4MDUyODE5NzksInZpX3VzZWNhc2VfaWQiOjEwNTY4LCJkdXJhdGlvbl9zIjoyNDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&oh=00_AYGIkCngQEeAUSJa8Kevyu_dgQaux2FePxEC77PCySBIKQ&oe=67EC979A",
+                        "has_lyrics": true,
+                        "highlight_start_times_in_ms": [
+                            89000,
+                            18500,
+                            3000
+                        ],
+                        "id": "1886258452167620",
+                        "ig_username": "doechii",
+                        "is_eligible_for_audio_effects": false,
+                        "is_eligible_for_vinyl_sticker": true,
+                        "is_explicit": true,
+                        "licensed_music_subtype": "DEFAULT",
+                        "lyrics": null,
+                        "progressive_download_url": "https://scontent.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQNwcUXLbJLDrgLGz1YPMIu6vLDgXiUlq6tQsr7QzcG4ffC2XcnvrjAig1aFenYmksZH9A1yeqS-IP032Mo-FSmn.mp4?strext=1&_nc_cat=1&_nc_oc=AdkxAtj9ie_raQvt0LMrPJj1YRjR8kzI2LEDK1EmJnSTXYddC-AaRw0EO3pJntDKSsc&_nc_sid=8bf8fe&_nc_ht=scontent.fzrh2-2.fna.fbcdn.net&_nc_ohc=45G6tAYuhJYQ7kNvgEIJD4T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5BVURJT19PTkxZLi5DMy4wLnByb2dyZXNzaXZlX2F1ZGlvX2FhY3BfNDhfZnJhZ18yX2F1ZGlvIiwieHB2X2Fzc2V0X2lkIjo2MTA3MzA4MDUyODE5NzksInZpX3VzZWNhc2VfaWQiOjEwNTY4LCJkdXJhdGlvbl9zIjoyNDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&oh=00_AYGIkCngQEeAUSJa8Kevyu_dgQaux2FePxEC77PCySBIKQ&oe=67EC979A",
+                        "reactive_audio_download_url": null,
+                        "sanitized_title": null,
+                        "subtitle": "",
+                        "title": "Anxiety",
+                        "web_30s_preview_download_url": null
+                    },
+                    "music_canonical_id": null,
+                    "music_consumption_info": {
+                        "allow_media_creation_with_music": true,
+                        "audio_asset_start_time_in_ms": 87915,
+                        "audio_filter_infos": [],
+                        "audio_muting_info": {
+                            "allow_audio_editing": false,
+                            "mute_audio": false,
+                            "mute_reason_str": "",
+                            "show_muted_audio_toast": false
+                        },
+                        "contains_lyrics": null,
+                        "derived_content_id": null,
+                        "display_labels": null,
+                        "formatted_clips_media_count": null,
+                        "ig_artist": {
+                            "full_name": "Swamp Princess",
+                            "id": "48033396",
+                            "is_private": false,
+                            "is_verified": true,
+                            "pk": 48033396,
+                            "pk_id": "48033396",
+                            "profile_pic_id": "3441425426117414075_48033396",
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/456842967_529022812866712_3001436639060789751_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=mbHR82S2RyQQ7kNvgHx_48g&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AYEBl8jynzmrkFy0vF380EdmQ6EP9OZsHGCkgqBsiZrBCw&oe=67EC848A&_nc_sid=fc8dfb",
+                            "strong_id__": "48033396",
+                            "username": "doechii"
+                        },
+                        "is_bookmarked": false,
+                        "is_trending_in_clips": false,
+                        "overlap_duration_in_ms": 17152,
+                        "placeholder_profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.12442-15/43985629_311105916145351_58064759811405776_n.jpg?_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=k08tg_h6xbEQ7kNvgH2ieiM&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkAAAAA&ccb=7-5&oh=00_AYG4qpJbsoU8CwGRhLL43j4ULK6fuEO_i2LkF_1PakMqrw&oe=67EC713D&_nc_sid=fc8dfb",
+                        "previous_trend_rank": null,
+                        "should_allow_music_editing": false,
+                        "should_mute_audio": false,
+                        "should_mute_audio_reason": "",
+                        "should_mute_audio_reason_type": null,
+                        "should_render_soundwave": false,
+                        "trend_rank": null
+                    }
+                },
+                "nux_info": null,
+                "original_sound_info": null,
+                "originality_info": null,
+                "professional_clips_upsell_type": 0,
+                "reels_on_the_rise_info": null,
+                "reusable_text_attribute_string": "The Move The Shot",
+                "reusable_text_info": [
+                    {
+                        "alignment": "center",
+                        "colors": [
+                            {
+                                "count": 8,
+                                "hex_rgba_color": "#FFC840FF"
+                            }
+                        ],
+                        "end_time_ms": 17152.0,
+                        "font_size": 26.052347,
+                        "height": 0.05625,
+                        "id": 17924865699030264,
+                        "is_animated": 0,
+                        "offset_x": 0.5018704,
+                        "offset_y": 0.5457003,
+                        "rotation_degree": 0.0,
+                        "scale": 0.9964929,
+                        "start_time_ms": 0.0,
+                        "text": "The Move",
+                        "text_emphasis_mode": "disabled",
+                        "text_format_type": "ig_squeeze",
+                        "width": 0.18703704,
+                        "z_index": 11
+                    },
+                    {
+                        "alignment": "center",
+                        "colors": [
+                            {
+                                "count": 8,
+                                "hex_rgba_color": "#FFC840FF"
+                            }
+                        ],
+                        "end_time_ms": 17152.0,
+                        "font_size": 23.4,
+                        "height": 0.051041666,
+                        "id": 17924865699030264,
+                        "is_animated": 0,
+                        "offset_x": 0.5009143,
+                        "offset_y": 0.47538605,
+                        "rotation_degree": 0.0,
+                        "scale": 1.160748,
+                        "start_time_ms": 0.0,
+                        "text": "The Shot",
+                        "text_emphasis_mode": "disabled",
+                        "text_format_type": "ig_squeeze",
+                        "width": 0.1574074,
+                        "z_index": 10
+                    }
+                ],
+                "shopping_info": null,
+                "show_achievements": false,
+                "show_tips": null,
+                "template_info": null,
+                "viewer_interaction_settings": null
+            },
+            "clips_tab_pinned_user_ids": [],
+            "coauthor_producer_can_see_organic_insights": false,
+            "coauthor_producers": [],
+            "code": "DG-hq3moqvK",
+            "comment_count": 41,
+            "comment_inform_treatment": {
+                "action_type": null,
+                "should_have_inform_treatment": false,
+                "text": "",
+                "url": null
+            },
+            "creative_config": {
+                "capture_type": "clips_v2",
+                "creation_tool_info": [
+                    {
+                        "appearance_effect": 0,
+                        "camera_tool": 179,
+                        "color_filters": "",
+                        "duration_selector_seconds": 0,
+                        "magic_cut_end_time": 0.0,
+                        "magic_cut_start_time": 0.0,
+                        "speed_selector": 0.0,
+                        "timer_selector_seconds": 0
+                    },
+                    {
+                        "appearance_effect": 0,
+                        "camera_tool": 97,
+                        "color_filters": "",
+                        "duration_selector_seconds": 0,
+                        "magic_cut_end_time": 0.0,
+                        "magic_cut_start_time": 0.0,
+                        "speed_selector": 0.0,
+                        "timer_selector_seconds": 0
+                    }
+                ],
+                "effect_configs": null
+            },
+            "creator_viewer_insights": [],
+            "crosspost_metadata": {
+                "fb_downstream_use_xpost_metadata": {
+                    "downstream_use_xpost_deny_reason": "NONE"
+                }
+            },
+            "deleted_reason": 0,
+            "device_timestamp": 8564821636720,
+            "enable_media_notes_production": false,
+            "facepile_top_likers": [],
+            "fb_aggregated_comment_count": 0,
+            "fb_aggregated_like_count": 0,
+            "fb_user_tags": {
+                "in": []
+            },
+            "fbid": 17924865156030264,
+            "featured_products": [],
+            "filter_type": 0,
+            "floating_context_items": [],
+            "gen_ai_detection_method": {
+                "detection_method": "NONE"
+            },
+            "has_audio": true,
+            "has_delayed_metadata": false,
+            "has_high_risk_gen_ai_inform_treatment": false,
+            "has_liked": false,
+            "has_privately_liked": false,
+            "has_shared_to_fb": 0,
+            "has_viewer_saved": true,
+            "has_views_fetching": true,
+            "hide_view_all_comment_entrypoint": false,
+            "id": "3584450434890378186_58364682875",
+            "ig_media_sharing_disabled": false,
+            "ig_play_count": 70307,
+            "igbio_product": null,
+            "image_versions2": {
+                "additional_candidates": {
+                    "first_frame": {
+                        "height": 1136,
+                        "scans_profile": "e15",
+                        "url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483708882_1325032225206033_8821834901569743590_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmFkZGl0aW9uYWxfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=gnquC1Pof8YQ7kNvgG8Vv7A&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=acf.MzU4NDQ1MDQzNDg5MDM3ODE4Ng%3D%3D.3-ccb7-5&oh=00_AYHS8ybPtl20OH3YfYL-5sGPj0Txq8euCfvFVMkaA8Xs_Q&oe=67EC8DD8&_nc_sid=fc8dfb",
+                        "width": 640
+                    },
+                    "igtv_first_frame": {
+                        "height": 1136,
+                        "scans_profile": "e15",
+                        "url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483708882_1325032225206033_8821834901569743590_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmFkZGl0aW9uYWxfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=gnquC1Pof8YQ7kNvgG8Vv7A&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=acf.MzU4NDQ1MDQzNDg5MDM3ODE4Ng%3D%3D.3-ccb7-5&oh=00_AYHS8ybPtl20OH3YfYL-5sGPj0Txq8euCfvFVMkaA8Xs_Q&oe=67EC8DD8&_nc_sid=fc8dfb",
+                        "width": 640
+                    },
+                    "smart_frame": {
+                        "height": 1333,
+                        "scans_profile": "e35",
+                        "url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t15.5256-10/483815247_1379614266379309_2774714186116953395_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY1MjU2LnN0YXRpY19zbWFydF90aHVtYm5haWxzOjpBTUxfTUxQX0hBTkRDUkFGVF9BTkRfWFJBWV9BRFNfQ1RSX0RJVkVSU0UifQ&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=Sp4tJepjufwQ7kNvgHt3H2v&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkAAAAA&ccb=7-5&oh=00_AYHRyu0_RgMWXi3UmNp2ob6ZASiA3oR4an_6mw1j6oJayg&oe=67EC7D51&_nc_sid=fc8dfb",
+                        "width": 750
+                    }
+                },
+                "candidates": [
+                    {
+                        "height": 960,
+                        "scans_profile": "e15",
+                        "url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi41NDB4OTYwLnNkci5mNzU3NjEuZGVmYXVsdF9jb3Zlcl9mcmFtZSJ9&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzU4NDQ1MDQzNDg5MDM3ODE4Ng%3D%3D.3-ccb7-5&oh=00_AYHQlXltDyKaUFuZAfLVq_QVsuIWfe_EShvqHzXQhMt8pA&oe=67EC8EAF&_nc_sid=fc8dfb",
+                        "width": 540
+                    }
+                ],
+                "scrubber_spritesheet_info_candidates": {
+                    "default": {
+                        "file_size_kb": 414,
+                        "max_thumbnails_per_sprite": 105,
+                        "rendered_width": 96,
+                        "sprite_height": 1246,
+                        "sprite_urls": [
+                            "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483094539_2300203093695997_2723608490645959868_n.jpg?_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=Lpt024c8pFcQ7kNvgGvAdBl&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AYF3-_yL0iBn8DCd-34Nzne2KA53QFHeYtgQ-ex68JQfqA&oe=67EC71F9&_nc_sid=fc8dfb"
+                        ],
+                        "sprite_width": 1500,
+                        "thumbnail_duration": 0.1634190476190476,
+                        "thumbnail_height": 178,
+                        "thumbnail_width": 100,
+                        "thumbnails_per_row": 15,
+                        "total_thumbnail_num_per_sprite": 105,
+                        "video_length": 17.159
+                    }
+                }
+            },
+            "inline_composer_display_condition": "impression_trigger",
+            "inline_composer_imp_trigger_time": 5.0,
+            "integrity_review_decision": "pending",
+            "invited_coauthor_producers": [],
+            "is_artist_pick": false,
+            "is_comments_gif_composer_enabled": true,
+            "is_cutout_sticker_allowed": false,
+            "is_dash_eligible": 1,
+            "is_eligible_content_for_post_roll_ad": false,
+            "is_eligible_for_media_note_recs_nux": false,
+            "is_eligible_for_meta_ai_share": false,
+            "is_in_profile_grid": false,
+            "is_open_to_public_submission": false,
+            "is_organic_product_tagging_eligible": true,
+            "is_paid_partnership": false,
+            "is_post_live_clips_media": false,
+            "is_quiet_post": false,
+            "is_reshare_of_text_post_app_media_in_ig": false,
+            "is_reuse_allowed": true,
+            "is_social_ufi_disabled": false,
+            "is_tagged_media_shared_to_viewer_profile_grid": false,
+            "is_third_party_downloads_eligible": true,
+            "is_visual_reply_commenter_notice_enabled": true,
+            "lat": 46.49523,
+            "like_and_view_counts_disabled": false,
+            "like_count": 2205,
+            "lng": 6.39176,
+            "location": {
+                "address": "",
+                "city": "",
+                "external_source": "facebook_places",
+                "facebook_places_id": 108528442511381,
+                "has_viewer_saved": false,
+                "lat": 46.49523,
+                "lng": 6.39176,
+                "name": "Aubonne, Switzerland",
+                "pk": 214963059,
+                "short_name": "Aubonne"
+            },
+            "media_cropping_info": {
+                "four_by_three_crop": {
+                    "crop_bottom": 0.0,
+                    "crop_left": 0.0,
+                    "crop_right": 0.0,
+                    "crop_top": 0.0
+                }
+            },
+            "media_notes": {
+                "items": []
+            },
+            "media_reposter_bottomsheet_enabled": false,
+            "media_type": 2,
+            "meta_ai_content_deep_dive_prompt_v2": {
+                "media_eligibility_result": "INELIGIBLE_VIEWER_COUNTRY"
+            },
+            "meta_ai_suggested_prompts": [],
+            "mezql_token": "",
+            "music_metadata": null,
+            "number_of_qualities": 5,
+            "open_carousel_show_follow_button": false,
+            "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTZhNzQ2NjQ4ZDBjNDc3Nzg5ZmI0ZTlmNzExZWEyMGQzNTg0NDUwNDM0ODkwMzc4MTg2Iiwic2VydmVyX3Rva2VuIjoiMTc0MzE3MDI3NzQxMnwzNTg0NDUwNDM0ODkwMzc4MTg2fDcyMTc1NDc2MTQ3fGYyOWY4NzcyMDI5YTk2Yzc4NzNmMjY0NGM2YzFkOWQ3MzQ1NWVlNzk4MDNhZmQyMTJiMGJiNzIxMGI4NTk1NjIifSwic2lnbmF0dXJlIjoiIn0=",
+            "original_height": 960,
+            "original_media_has_visual_reply_media": false,
+            "original_width": 540,
+            "photo_of_you": false,
+            "pk": 3584450434890378186,
+            "play_count": 70307,
+            "preview_comments": [],
+            "product_suggestions": [],
+            "product_type": "clips",
+            "profile_grid_control_enabled": false,
+            "reshare_count": 7,
+            "saved_collection_ids": [],
+            "share_count_disabled": false,
+            "sharing_friction_info": {
+                "bloks_app_url": null,
+                "sharing_friction_payload": null,
+                "should_have_sharing_friction": false
+            },
+            "shop_routing_user_id": null,
+            "should_request_ads": false,
+            "should_show_author_pog_for_tagged_media_shared_to_profile_grid": false,
+            "social_context": [],
+            "strong_id__": "3584450434890378186_58364682875",
+            "subscribe_cta_visible": false,
+            "taken_at": 1741520302,
+            "timeline_pinned_user_ids": [],
+            "top_likers": [],
+            "user": {
+                "account_badges": [],
+                "account_type": 3,
+                "can_see_quiet_post_attribution": true,
+                "fan_club_info": {
+                    "autosave_to_exclusive_highlight": null,
+                    "connected_member_count": null,
+                    "fan_club_id": null,
+                    "fan_club_name": null,
+                    "fan_consideration_page_revamp_eligiblity": null,
+                    "has_created_ssc": null,
+                    "has_enough_subscribers_for_ssc": null,
+                    "is_fan_club_gifting_eligible": null,
+                    "is_fan_club_referral_eligible": null,
+                    "is_free_trial_eligible": null,
+                    "largest_public_bc_id": null,
+                    "subscriber_count": null
+                },
+                "fbid_v2": 17841458406255585,
+                "feed_post_reshare_disabled": false,
+                "friendship_status": {
+                    "following": false,
+                    "is_bestie": false,
+                    "is_feed_favorite": false,
+                    "is_restricted": false
+                },
+                "full_name": "DROEY | Drone Pilot",
+                "has_anonymous_profile_picture": false,
+                "id": "58364682875",
+                "is_active_on_text_post_app": false,
+                "is_favorite": false,
+                "is_private": false,
+                "is_unpublished": false,
+                "is_verified": false,
+                "latest_reel_media": 1743162978,
+                "pk": 58364682875,
+                "pk_id": "58364682875",
+                "profile_pic_id": "3345514123573921210_58364682875",
+                "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AYFYbz490TTsB9-IKqm_YkG98dou5HwpnX_toirwHbHPhg&oe=67EC896B&_nc_sid=fc8dfb",
+                "show_account_transparency_details": true,
+                "strong_id__": "58364682875",
+                "text_post_app_is_private": true,
+                "third_party_downloads_enabled": 1,
+                "transparency_product_enabled": false,
+                "username": "droey.fpv"
+            },
+            "usertags": {
+                "in": [
+                    {
+                        "position": [
+                            0.0,
+                            0.0
+                        ],
+                        "show_category_of_user": false,
+                        "user": {
+                            "full_name": "DJI",
+                            "id": "307988454",
+                            "is_private": false,
+                            "is_verified": true,
+                            "pk": 307988454,
+                            "pk_id": "307988454",
+                            "profile_pic_id": "3540113822091915165_307988454",
+                            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/472814773_1272356353984288_2071811813544321331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=hjSBC5sCXgAQ7kNvgFhyQiR&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AYE-0dErYlEvRqp-ya0Om4nZw1lBG6AnF4uN2zBSE8Ehzg&oe=67EC8965&_nc_sid=fc8dfb",
+                            "strong_id__": "307988454",
+                            "username": "djiglobal"
+                        }
+                    }
+                ]
+            },
+            "video_codec": "av01.0.05M.08.0.111.01.01.01.0",
+            "video_dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT17.159546S\" FBManifestIdentifier=\"FgAYD3IyYXYxLXIxZ2VuMnZwORlm8PferP2imQKCucOstpaEBPKOlae4g44ErNautcHR1gSs2biT2L/RBsiNo6yQ1rEHIhgjZGFzaF91bmlmaWVkX3ByZW1pdW1feGhlX3ZicjJfYXVkaW8iAA==\"><Period id=\"0\" duration=\"PT17.159546S\"><AdaptationSet id=\"0\" contentType=\"video\" subsegmentAlignment=\"true\" par=\"9:16\" FBUnifiedUploadResolutionMos=\"360:87.5\"><SupplementalProperty schemeIdUri=\"urn:mpeg:mpegB:cicp:MatrixCoefficients\" value=\"1\"/><SupplementalProperty schemeIdUri=\"urn:mpeg:mpegB:cicp:ColourPrimaries\" value=\"1\"/><SupplementalProperty schemeIdUri=\"urn:mpeg:mpegB:cicp:TransferCharacteristics\" value=\"1\"/><Representation id=\"1156745329288121vd\" bandwidth=\"806135\" codecs=\"av01.0.05M.08.0.111.01.01.01.0\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2av1-r1gen2vp9_q50\" FBContentLength=\"1723114\" FBPlaybackResolutionMos=\"0:100,360:75.6,480:68.6,720:56.6,1080:44.9\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:96.1,480:94.5,720:90.6,1080:83.3\" FBAbrPolicyTags=\"\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBDefaultQuality=\"1\" FBQualityClass=\"hd\" FBQualityLabel=\"480p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQOolNzx-DC5ntMLwU5PU5hFsOKRVaBmOj_iHLnuJmLwQAaz26ULN45j_SBRJRozhUIMQFYuaznrHEMy72lyT-WYqrldt_Ss1kOXYVw.mp4?_nc_cat=104&amp;_nc_oc=AdkGubb4SVY06tLCaU22hkpaIaix2yV4WdNs-jE3zYZjzZKb1K8n7Ou6zvLUVDG-AsY&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=quQUlDfvbOkQ7kNvgGiVH9O&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJhdjEtcjFnZW4ydnA5X3E1MCIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOjEyNDAyNDU3NDI4NzQxNCwieHB2X2Fzc2V0X2lkIjoxMzE1NDQzMTM5NzI1MDMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYF7n1n-Sau55qV0ExYDvRjM6gER6doBNkhrxidTK_b02Q&amp;oe=67EC6AE5</BaseURL><SegmentBase indexRange=\"826-905\" timescale=\"15360\" FBMinimumPrefetchRange=\"906-155876\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"906-343723\" FBFirstSegmentRange=\"906-536238\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"536239-1132774\" FBPrefetchSegmentRange=\"906-536238\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-825\"/></SegmentBase></Representation><Representation id=\"1316416256333206v\" bandwidth=\"1310280\" codecs=\"av01.0.05M.08.0.111.01.01.01.0\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2av1-r1gen2vp9_q60\" FBContentLength=\"2800724\" FBPlaybackResolutionMos=\"0:100,360:82.7,480:75.9,720:65.5,1080:52.7\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.5,480:96.4,720:93.6,1080:87.4\" FBAbrPolicyTags=\"\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"540p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQMWx-tLcbPfkb2RXGnci6gbRnjGAL0GwxWupo_wxzDjoACoyONUuvSjhi4l0QBkIE6WLc56x9-68R-rwa0O1eYJPIzq-F2StGzBy0M.mp4?_nc_cat=110&amp;_nc_oc=AdmLxPcdzltlvAnPoE5MWGEFg0T_fiJA5Gq7x0p7lNSTuyDSi5Z8-krXqwhFpPQ-VYU&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=dkVWaHhy3cMQ7kNvgG63Fhx&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJhdjEtcjFnZW4ydnA5X3E2MCIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOjEyNDAyNDU3NDI4NzQxNCwieHB2X2Fzc2V0X2lkIjoxMzE1NDQzMTM5NzI1MDMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYH1BLnldK-YSCSEl-F-Vq0E1AQtP0o7v0Ljj8uNJau1YA&amp;oe=67EC983F</BaseURL><SegmentBase indexRange=\"826-905\" timescale=\"15360\" FBMinimumPrefetchRange=\"906-193737\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"906-543969\" FBFirstSegmentRange=\"906-877947\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"877948-1863979\" FBPrefetchSegmentRange=\"906-877947\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-825\"/></SegmentBase></Representation><Representation id=\"1135081251434049v\" bandwidth=\"1561984\" codecs=\"av01.0.05M.08.0.111.01.01.01.0\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2av1-r1gen2vp9_q70\" FBContentLength=\"3338742\" FBPlaybackResolutionMos=\"0:100,360:85.1,480:78.4,720:68.7,1080:55.3\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.7,480:96.9,720:94.4,1080:88.6\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"640p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM__tHzrs8x_rAzCd3mkpMs3us3UhE0L0KBnaOBCQgEzIdRwvfqXb15473sSc7XoEqRO_NeerCwc3GMmbPNO-B4O-85cU1tXgEEI78.mp4?_nc_cat=110&amp;_nc_oc=AdnJLd6qYQT9ZNHzyhnltf9zRGG0ecUQSfvm6p6Ad4dzbv3Kvw1xlIW78QbTYtMxSkU&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=bIP5g9bukBIQ7kNvgGGiusT&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJhdjEtcjFnZW4ydnA5X3E3MCIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOjEyNDAyNDU3NDI4NzQxNCwieHB2X2Fzc2V0X2lkIjoxMzE1NDQzMTM5NzI1MDMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYG4Cmpi3uOnreK99HkRDYvjNrMkhGYR9Up4qu4TLaGvLg&amp;oe=67EC906B</BaseURL><SegmentBase indexRange=\"826-905\" timescale=\"15360\" FBMinimumPrefetchRange=\"906-208099\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"906-638974\" FBFirstSegmentRange=\"906-1049401\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1049402-2236578\" FBPrefetchSegmentRange=\"906-1049401\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-825\"/></SegmentBase></Representation><Representation id=\"1868064907269718v\" bandwidth=\"1880991\" codecs=\"av01.0.05M.08.0.111.01.01.01.0\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2av1-r1gen2vp9_q80\" FBContentLength=\"4020619\" FBPlaybackResolutionMos=\"0:100,360:87.1,480:81.4,720:71.6,1080:57.6\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:98.08,480:97.4,720:95.3,1080:89.7\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQP7Ys1iULheGO6ANgUzvcv0EiR42Ep_MCiyomhB9OzZmfs5iwO5PAHVazL4QaO7iEdlbZvFTBlFZR2R-vcStJ3r7xd8W7f6N9S2JKw.mp4?_nc_cat=100&amp;_nc_oc=AdnOKmM5pSehoPCiQqVKdMwmHFZ_2AAyDvnNEPbtWsctgPLdP47sTaGwKybUp_w3eBY&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=2TGh-HYo58oQ7kNvgHmeeN1&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJhdjEtcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOjEyNDAyNDU3NDI4NzQxNCwieHB2X2Fzc2V0X2lkIjoxMzE1NDQzMTM5NzI1MDMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYE4HGc3f0GXimxwMgqiQ1VKu4-OQD5EMwJM2iVTmHF2_w&amp;oe=67EC740D</BaseURL><SegmentBase indexRange=\"826-905\" timescale=\"15360\" FBMinimumPrefetchRange=\"906-220519\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"906-748042\" FBFirstSegmentRange=\"906-1261254\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1261255-2704464\" FBPrefetchSegmentRange=\"906-1261254\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-825\"/></SegmentBase></Representation><Representation id=\"2079556639155044v\" bandwidth=\"2873029\" codecs=\"av01.0.08M.08.0.111.01.01.01.0\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2av1-r1gen2vp9_q90\" FBContentLength=\"6141101\" FBPlaybackResolutionMos=\"0:100,360:90.1,480:85.7,720:77.3,1080:71.2\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:98.44,480:98,720:96.6,1080:94.1\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"1080\" height=\"1920\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"1080p\"><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQNqJ9XDU18OL36bZo3f54nfs1ieO_4dlSCqwwiQtU7C9hvyaZA-9fRjHDwym5VmKRjpKiEVYn67Ky0BrzEEdsNk7O_D5kRHmm_vi_w.mp4?_nc_cat=103&amp;_nc_oc=AdnC0VmUiIuWDzG_CzSxzeGAT-JdXcJM7hHmRaEKFOHmIrUzd11k-AWuCAryzwHMs4c&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=0BC4sas526UQ7kNvgHMyD90&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJhdjEtcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJjbGllbnRfbmFtZSI6ImlnIiwib2lsX3VybGdlbl9hcHBfaWQiOjEyNDAyNDU3NDI4NzQxNCwieHB2X2Fzc2V0X2lkIjoxMzE1NDQzMTM5NzI1MDMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYGMmNB4JTkDd6lvoodotNMpG5vhRy_OTHejjxa_UV6luw&amp;oe=67EC84C8</BaseURL><SegmentBase indexRange=\"826-905\" timescale=\"15360\" FBMinimumPrefetchRange=\"906-345428\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"906-1185626\" FBFirstSegmentRange=\"906-1938474\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"1938475-4091801\" FBPrefetchSegmentRange=\"906-1938474\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-825\"/></SegmentBase></Representation></AdaptationSet><AdaptationSet id=\"1\" contentType=\"audio\" subsegmentStartsWithSAP=\"1\" subsegmentAlignment=\"true\"><Representation id=\"618526474493432ad\" bandwidth=\"83124\" codecs=\"mp4a.40.42\" mimeType=\"audio/mp4\" FBAvgBitrate=\"83124\" audioSamplingRate=\"44100\" FBEncodingTag=\"dash_audio_xheaac_vbr2_abr_lrac_frag_5_audio\" FBContentLength=\"179214\" FBPaqMos=\"92.47\" FBAbrPolicyTags=\"\" FBDefaultQuality=\"1\"><AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/><BaseURL>https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t16/f2/m69/AQM5lYdEschLoaL_nVEt2Dr3mlBgbbU8y4q4bQ193nv-Tm0IqYg_68aJ2slOOaPMtVYpJt1I7gqahyECOKE2_dFA.mp4?strext=1&amp;_nc_cat=111&amp;_nc_oc=AdknYVGuqsEepZupTKgB8JpubMVMJkaLVqhiRI3_RIoZdMTeXWOkOO9xboY6Wm9FNZs&amp;_nc_sid=9ca052&amp;_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&amp;_nc_ohc=MAUXAWVwRAEQ7kNvgElyfla&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYXVkaW9feGhlYWFjX3ZicjJfYWJyX2xyYWNfZnJhZ181X2F1ZGlvIiwidmlkZW9faWQiOm51bGwsImNsaWVudF9uYW1lIjoiaWciLCJvaWxfdXJsZ2VuX2FwcF9pZCI6MTI0MDI0NTc0Mjg3NDE0LCJ4cHZfYXNzZXRfaWQiOjEzMTU0NDMxMzk3MjUwMzMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&amp;ccb=17-1&amp;_nc_zt=28&amp;oh=00_AYFECEC71GV_aN2opHmS-B8oXrTCfeQHE86XlObKF44lbA&amp;oe=67EC651D</BaseURL><SegmentBase indexRange=\"838-917\" timescale=\"44100\" FBMinimumPrefetchRange=\"918-2019\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"918-25804\" FBFirstSegmentRange=\"918-49969\" FBFirstSegmentDuration=\"4922\" FBSecondSegmentRange=\"49970-101620\" FBPrefetchSegmentRange=\"918-49969\" FBPrefetchSegmentDuration=\"4922\"><Initialization range=\"0-837\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n",
+            "video_duration": 17.159,
+            "video_sticker_locales": [],
+            "video_subtitles_confidence": 0.8054226040840149,
+            "video_subtitles_locale": "en_US",
+            "video_subtitles_uri": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t39.36743-6/482069508_1231168021762927_485459308220750275_n.srt?_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QESIe9T5G1OAiVVV0MBCSSjU1h4VEmk7uaLdiuM_47JVMd_VSUN82KOHUTnqt4qdZs&_nc_ohc=EwtSttXlorQQ7kNvgF8jDY8&_nc_gid=xAZABBkjJnGZJ01TEtcI7w&edm=ALQROFkAAAAA&ccb=7-5&oh=00_AYEyyoqR-KbMFDywgUUVSevrEFzB5Ehg369dHmACjpwxnQ&oe=67EC82F2&_nc_sid=fc8dfb",
+            "video_versions": [
+                {
+                    "bandwidth": 2016646,
+                    "height": 1280,
+                    "id": "616186954643988v",
+                    "type": 101,
+                    "url": "https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMC0LiCxIZ74CQFw2xLqVAjy7VgBpNPlrYeUJsA9S7vDbwmfdM-QGEJFWLXDIfjMZODapEy4DnCpvnHD6AXjyFE6_ZwfC2EO-H9LOQ.mp4?_nc_cat=107&_nc_oc=AdnCg9myhHxK56teotkkThgr1xf6e9rg9NZlJR1hG76jLY4qFZ9j6viHk7aGQgVuPOA&_nc_sid=5e9851&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_ohc=f9A16Kxw2YEQ7kNvgFTV0om&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTMxNTQ0MzEzOTcyNTAzMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c88d784940b8a2e3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNDRDM0ZDOEFFRENGODE2MzJDQkRDMDNCREVEQTU4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBazAxQnhuRmRtWXA5RU5BSUtDQWRnb1Qxa25icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtKbhpHvmNYEFQIoAkMzLBdAMQhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&_nc_zt=28&oh=00_AYHQdEXwpzJ4EBeHgqhIP4gg3FTzD-s44gBBfuhlGdxPEQ&oe=67E89018",
+                    "width": 720
+                },
+                {
+                    "bandwidth": 2016646,
+                    "height": 1280,
+                    "id": "616186954643988v",
+                    "type": 102,
+                    "url": "https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMC0LiCxIZ74CQFw2xLqVAjy7VgBpNPlrYeUJsA9S7vDbwmfdM-QGEJFWLXDIfjMZODapEy4DnCpvnHD6AXjyFE6_ZwfC2EO-H9LOQ.mp4?_nc_cat=107&_nc_oc=AdnCg9myhHxK56teotkkThgr1xf6e9rg9NZlJR1hG76jLY4qFZ9j6viHk7aGQgVuPOA&_nc_sid=5e9851&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_ohc=f9A16Kxw2YEQ7kNvgFTV0om&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTMxNTQ0MzEzOTcyNTAzMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c88d784940b8a2e3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNDRDM0ZDOEFFRENGODE2MzJDQkRDMDNCREVEQTU4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBazAxQnhuRmRtWXA5RU5BSUtDQWRnb1Qxa25icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtKbhpHvmNYEFQIoAkMzLBdAMQhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&_nc_zt=28&oh=00_AYHQdEXwpzJ4EBeHgqhIP4gg3FTzD-s44gBBfuhlGdxPEQ&oe=67E89018",
+                    "width": 720
+                },
+                {
+                    "bandwidth": 2016646,
+                    "height": 1280,
+                    "id": "616186954643988v",
+                    "type": 103,
+                    "url": "https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQMC0LiCxIZ74CQFw2xLqVAjy7VgBpNPlrYeUJsA9S7vDbwmfdM-QGEJFWLXDIfjMZODapEy4DnCpvnHD6AXjyFE6_ZwfC2EO-H9LOQ.mp4?_nc_cat=107&_nc_oc=AdnCg9myhHxK56teotkkThgr1xf6e9rg9NZlJR1hG76jLY4qFZ9j6viHk7aGQgVuPOA&_nc_sid=5e9851&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_ohc=f9A16Kxw2YEQ7kNvgFTV0om&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTMxNTQ0MzEzOTcyNTAzMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c88d784940b8a2e3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNDRDM0ZDOEFFRENGODE2MzJDQkRDMDNCREVEQTU4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBazAxQnhuRmRtWXA5RU5BSUtDQWRnb1Qxa25icV9FQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtKbhpHvmNYEFQIoAkMzLBdAMQhysCDEnBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gcA&_nc_zt=28&oh=00_AYHQdEXwpzJ4EBeHgqhIP4gg3FTzD-s44gBBfuhlGdxPEQ&oe=67E89018",
+                    "width": 720
+                }
+            ]
+        },
+        "is_ad": false,
+        "is_affiliate": false,
+        "is_paid_partnership": false,
+        "is_published": true,
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Aubonne, Switzerland\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "214963059",
+            "name": "Aubonne, Switzerland",
+            "slug": "aubonne-switzerland"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ABgqg47GlEgHPP61WRgcHocd+nT2/P2p02FxtJOevIH4cHp9anmK5S4ZRt3cY/w60VkAk5z0op8zFZEmG64P6f41J5TOuQrZ/wCA4/nmrbyAMO+ecYGAKDcgA4G33GKXL2KvZ2KX2Wb+6cfUf40VsxSiVd3Qjg0Vndl8pnKNxJxkngc9MCoTEx4J61NbHgfQ09+in/PSr5mnYi19R8DeUuxue4P+f88UVDcHCA/7Qoo31LTP/9k=",
+        "nft_asset_info": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "edge_followed_by": {
+                "count": 46626
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 288
+            },
+            "followed_by_viewer": false,
+            "full_name": "DROEY | Drone Pilot",
+            "has_blocked_viewer": false,
+            "id": "58364682875",
+            "is_embeds_disabled": false,
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "pass_tiering_recommendation": true,
+            "profile_pic_url": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-19/438189912_990450182689071_4103233374285342022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=KMWDD63uSCwQ7kNvgHqn2EI&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYGYzXZwt6SVm1Md_75bmLmizVTnHHDm5m89uf9eX1ukKQ&oe=67EC896B&_nc_sid=d885a2",
+            "requested_by_viewer": false,
+            "restricted_by_viewer": false,
+            "username": "droey.fpv"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DG-hq3moqvK",
+        "taken_at_timestamp": 1741520302,
+        "thumbnail_src": "https://instagram.fzrh2-2.fna.fbcdn.net/v/t51.2885-15/483699480_17949621380946876_8109690960440233888_n.jpg?stp=c0.210.540.540a_dst-jpg_e15_tt6&_nc_ht=instagram.fzrh2-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEaxFtmaVal3jb2rurKDuGyc8ej0CLysij81jti90CPVH70cdFbGvMgYgeiNzPkJ3s&_nc_ohc=31z4BpgtC0wQ7kNvgE348m9&_nc_gid=-1M3ytZJLIhOo6FfzMqBLg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYEoCSPr-OSSNCZJf8_UGgQqIWq4fJAKuGKGqa6xfX4vTA&oe=67EC8EAF&_nc_sid=d885a2",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTk2MmFhOTEzMmNmNDQ1NWFiN2JmMjE3NDg2ZGI0YTYzNTg0NDUwNDM0ODkwMzc4MTg2Iiwic2VydmVyX3Rva2VuIjoiMTc0MzE3MDI3NTQxM3wzNTg0NDUwNDM0ODkwMzc4MTg2fDcyMTc1NDc2MTQ3fDE4Y2E2ZTA0MTFiMGRlOTJlNzkyZDU0YmEyMGIxOWU5ODcyNzQ3M2ZjYTAxNGY3MzRiMzIzMTBhNWEzYzExZGUifSwic2lnbmF0dXJlIjoiIn0=",
+        "upcoming_event": null,
+        "video_duration": 17.16,
+        "video_play_count": 70307,
+        "video_url": "https://instagram.fzrh2-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQMC0LiCxIZ74CQFw2xLqVAjy7VgBpNPlrYeUJsA9S7vDbwmfdM-QGEJFWLXDIfjMZODapEy4DnCpvnHD6AXjyFE6_ZwfC2EO-H9LOQ.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=616186954643988_2462389245&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNDRDM0ZDOEFFRENGODE2MzJDQkRDMDNCREVEQTU4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dBazAxQnhuRmRtWXA5RU5BSUtDQWRnb1Qxa25icV9FQUFBRhUCAsgBACgAGAAbABUAACaOi6a14caUQRUCKAJDMywXQDEIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HAA%3D%3D&_nc_rid=e962ab7a25&ccb=9-4&oh=00_AYFwSiouIBDLzzTkYrBTUMoNDDkc0l-5xpHtWIpdltWSGg&oe=67E873B1&_nc_sid=d885a2",
+        "video_view_count": 29090,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": true,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
