@@ -1,177 +1,351 @@
 [
 {
-  "id": NumberLong(5821709),
-  "author": { "id": NumberLong(167592), "username": "graniteguy4760" },
-  "created_at": new Date('2025-08-22T17:29:57Z'),
-  "text": "Hidden really well 👌",
-  "likes_count": NumberInt(11)
-},
-{
-  "id": NumberLong(5648389),
-  "author": { "id": NumberLong(777675), "username": "shinyshard2242" },
-  "created_at": new Date('2025-08-22T17:28:57Z'),
-  "text": "Another rock for my collection 🪨",
-  "likes_count": NumberInt(325)
-},
-{
-  "id": NumberLong(5678860),
-  "author": { "id": NumberLong(282185), "username": "boulderbuddy6262" },
-  "created_at": new Date('2025-08-22T17:27:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(4)
-},
-{
-  "id": NumberLong(5698496),
-  "author": { "id": NumberLong(959491), "username": "cavecrawler591" },
-  "created_at": new Date('2025-08-22T17:26:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(55)
-},
-{
-  "id": NumberLong(5879643),
-  "author": { "id": NumberLong(271848), "username": "rocknrolla7873" },
-  "created_at": new Date('2025-08-22T17:25:57Z'),
-  "text": "At first we thought we wouldn’t find it, but after carefully looking near the bench, we discovered this hidden treasure. Thank you so much to whoever painted this! It made our day special.",
-  "likes_count": NumberInt(13)
-},
-{
-  "id": NumberLong(5820062),
-  "author": { "id": NumberLong(941401), "username": "cavecrawler422" },
-  "created_at": new Date('2025-08-22T17:24:57Z'),
-  "text": "Found it today, so cool!",
-  "likes_count": NumberInt(88)
-},
-{
-  "id": NumberLong(6404045),
-  "author": { "id": NumberLong(135215), "username": "stonehunter1480" },
-  "created_at": new Date('2025-08-22T17:23:57Z'),
-  "text": "Love the painting on this one.",
-  "likes_count": NumberInt(3)
-},
-{
-  "id": NumberLong(6051754),
-  "author": { "id": NumberLong(717379), "username": "rocknrolla5035" },
-  "created_at": new Date('2025-08-22T17:22:57Z'),
-  "text": "I really appreciate the amount of effort put into painting this rock. It's not just a rock, it's a little piece of art hidden in nature. The detail is amazing and it brought a big smile to our faces when we found it.",
+  "id": NumberLong(694400974072302264),
+  "author": { 
+    "id": NumberLong(4403573418785993), 
+    "username": "lavaqueen5077",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/jijisews.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-19T16:26:59Z"),
+  "text": "Hey @[u:989406254797610], Such bright colors!",
+  "mentions": [
+    { "id": NumberLong(989406254797610), "username": "granitelover114" }
+  ],
   "likes_count": NumberInt(0)
 },
 {
-  "id": NumberLong(5773789),
-  "author": { "id": NumberLong(434223), "username": "rockyroad5639" },
-  "created_at": new Date('2025-08-22T17:21:57Z'),
-  "text": "Super fun treasure hunt.",
+  "id": NumberLong(963705515455202538),
+  "author": { 
+    "id": NumberLong(2463903044805883), 
+    "username": "cavefan5871",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/cannevadamien.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-19T18:19:59Z"),
+  "text": "Perfect spot for hiding a rock.",
+  "likes_count": NumberInt(9)
+},
+{
+  "id": NumberLong(1056844703234052860),
+  "author": { 
+    "id": NumberLong(4388986772513476), 
+    "username": "slateartist6145",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/pierre15500.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-19T19:55:59Z"),
+  "text": "I appreciate the effort put into painting this rock—it's a small piece of art hidden in nature. The detail is amazing and it made our day.",
+  "likes_count": NumberInt(29)
+},
+{
+  "id": NumberLong(1144552119503614056),
+  "author": { 
+    "id": NumberLong(3033757744191436), 
+    "username": "shardartist1958" 
+  },
+  "created_at": new Date("2025-08-19T20:09:59Z"),
+  "text": "I appreciate the effort put into painting this rock—it's a small piece of art hidden in nature. The detail is amazing and it made our day.",
+  "likes_count": NumberInt(7)
+},
+{
+  "id": NumberLong(977626527272233995),
+  "author": { 
+    "id": NumberLong(2469155446797359), 
+    "username": "gemninja7004",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/zineetlyne_.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-19T21:54:59Z"),
+  "text": "We spent the afternoon exploring the park and finally stumbled upon this rock. The design is beautiful and the kids were super excited to find it!",
+  "likes_count": NumberInt(83)
+},
+{
+  "id": NumberLong(432269097108510596),
+  "author": { 
+    "id": NumberLong(4139459060104426), 
+    "username": "quartzking459",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/pierre15500.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-19T22:27:59Z"),
+  "text": "Super fun treasure hunt. — with @[u:3653755376646609]",
+  "mentions": [
+    { "id": NumberLong(3653755376646609), "username": "shardfinder7745" }
+  ],
+  "likes_count": NumberInt(9)
+},
+{
+  "id": NumberLong(984276108760730724),
+  "author": { 
+    "id": NumberLong(3874306543469328), 
+    "username": "lavahunter5540",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/angela.martens.90.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T00:26:59Z"),
+  "text": "We followed the hints and finally found it near the old tree. The colors are vibrant and the pattern is unique. Great hide!",
   "likes_count": NumberInt(3)
 },
 {
-  "id": NumberLong(6266049),
-  "author": { "id": NumberLong(911504), "username": "cavecrawler8315" },
-  "created_at": new Date('2025-08-22T17:20:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(10)
-},
-{
-  "id": NumberLong(6055544),
-  "author": { "id": NumberLong(835042), "username": "rocklover8588" },
-  "created_at": new Date('2025-08-22T17:19:57Z'),
-  "text": "Awesome rock! 🤩",
-  "likes_count": NumberInt(6)
-},
-{
-  "id": NumberLong(6257559),
-  "author": { "id": NumberLong(404926), "username": "rocklover2731" },
-  "created_at": new Date('2025-08-22T17:18:57Z'),
-  "text": "LOL almost missed it 😂",
-  "likes_count": NumberInt(17)
-},
-{
-  "id": NumberLong(5550529),
-  "author": { "id": NumberLong(736528), "username": "rockyroad5590" },
-  "created_at": new Date('2025-08-22T17:17:57Z'),
-  "text": "Hidden really well 👌",
-  "likes_count": NumberInt(96)
-},
-{
-  "id": NumberLong(6251558),
-  "author": { "id": NumberLong(850604), "username": "rocklover8871" },
-  "created_at": new Date('2025-08-22T17:16:57Z'),
-  "text": "I really appreciate the amount of effort put into painting this rock. It's not just a rock, it's a little piece of art hidden in nature. The detail is amazing and it brought a big smile to our faces when we found it.",
-  "likes_count": NumberInt(16)
-},
-{
-  "id": NumberLong(5513891),
-  "author": { "id": NumberLong(118249), "username": "rocklover6840" },
-  "created_at": new Date('2025-08-22T17:15:57Z'),
-  "text": "We spent the whole afternoon searching around the park, and finally stumbled upon this rock. The design is really beautiful and the kids were super excited to find it! Definitely one of our favorite RockQuest experiences so far.",
-  "likes_count": NumberInt(11)
-},
-{
-  "id": NumberLong(5825066),
-  "author": { "id": NumberLong(495704), "username": "stonehunter3049" },
-  "created_at": new Date('2025-08-22T17:14:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(89)
-},
-{
-  "id": NumberLong(6332362),
-  "author": { "id": NumberLong(449334), "username": "pebblefan6170" },
-  "created_at": new Date('2025-08-22T17:13:57Z'),
-  "text": "Hidden really well 👌",
-  "likes_count": NumberInt(0)
-},
-{
-  "id": NumberLong(5626201),
-  "author": { "id": NumberLong(660729), "username": "gemseeker6898" },
-  "created_at": new Date('2025-08-22T17:12:57Z'),
-  "text": "Awesome rock! 🤩",
-  "likes_count": NumberInt(287)
-},
-{
-  "id": NumberLong(6161605),
-  "author": { "id": NumberLong(675144), "username": "quartzqueen4394" },
-  "created_at": new Date('2025-08-22T17:11:57Z'),
-  "text": "RockQuest is the best!",
+  "id": NumberLong(233014023606548541),
+  "author": { 
+    "id": NumberLong(1330847160547539), 
+    "username": "slaterider9154",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/rocksinthewoods.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T01:23:59Z"),
+  "text": "This was a fun challenge! We checked a few wrong spots before spotting it tucked behind the signpost. Thanks for the adventure.",
   "likes_count": NumberInt(1)
 },
 {
-  "id": NumberLong(6119107),
-  "author": { "id": NumberLong(259102), "username": "crystalchaser1774" },
-  "created_at": new Date('2025-08-22T17:10:57Z'),
-  "text": "RockQuest is the best!",
-  "likes_count": NumberInt(14)
+  "id": NumberLong(908629157780501792),
+  "author": { 
+    "id": NumberLong(996019347602146), 
+    "username": "crystalqueen3488" 
+  },
+  "created_at": new Date("2025-08-20T03:10:59Z"),
+  "text": "Hey @[u:1494040056892718] and @[u:746168656137875], LOL almost missed it 😂",
+  "mentions": [
+    { "id": NumberLong(1494040056892718), "username": "marbleking7922" },
+    { "id": NumberLong(746168656137875), "username": "quartzfinder8180" }
+  ],
+  "likes_count": NumberInt(2543)
 },
 {
-  "id": NumberLong(5693446),
-  "author": { "id": NumberLong(501444), "username": "fossilfinds1215" },
-  "created_at": new Date('2025-08-22T17:09:57Z'),
-  "text": "RockQuest is the best!",
-  "likes_count": NumberInt(17)
+  "id": NumberLong(201570397867692558),
+  "author": { 
+    "id": NumberLong(4333928318444498), 
+    "username": "granitefan6843",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/yan.mtz.9.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T04:53:59Z"),
+  "text": "Hey @[u:746168656137875], Such bright colors!",
+  "mentions": [
+    { "id": NumberLong(746168656137875), "username": "quartzfinder8180" }
+  ],
+  "likes_count": NumberInt(2)
 },
 {
-  "id": NumberLong(6421738),
-  "author": { "id": NumberLong(233465), "username": "pebblefan2309" },
-  "created_at": new Date('2025-08-22T17:08:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(16)
+  "id": NumberLong(307140828896102126),
+  "author": { 
+    "id": NumberLong(88736043036514), 
+    "username": "quartzartist5672" 
+  },
+  "created_at": new Date("2025-08-20T05:16:59Z"),
+  "text": "Thanks to @[u:2006735180601940] and @[u:557595296487105], At first we thought we wouldn’t find it, but after carefully looking near the bench, we discovered this hidden treasure. Thank you to whoever painted this!",
+  "mentions": [
+    { "id": NumberLong(2006735180601940), "username": "slateguru9293" },
+    { "id": NumberLong(557595296487105), "username": "basalthunter5141" }
+  ],
+  "likes_count": NumberInt(1)
 },
 {
-  "id": NumberLong(5713567),
-  "author": { "id": NumberLong(552737), "username": "cavecrawler5953" },
-  "created_at": new Date('2025-08-22T17:07:57Z'),
-  "text": "Another rock for my collection 🪨",
-  "likes_count": NumberInt(17)
+  "id": NumberLong(977701672970488963),
+  "author": { 
+    "id": NumberLong(3354200224078339), 
+    "username": "marblefan9909" 
+  },
+  "created_at": new Date("2025-08-20T05:53:59Z"),
+  "text": "Thanks to @[u:391091737208590], At first we thought we wouldn’t find it, but after carefully looking near the bench, we discovered this hidden treasure. Thank you to whoever painted this!",
+  "mentions": [
+    { "id": NumberLong(391091737208590), "username": "boulderlover6279" }
+  ],
+  "likes_count": NumberInt(6)
 },
 {
-  "id": NumberLong(5565002),
-  "author": { "id": NumberLong(200139), "username": "rocknrolla4283" },
-  "created_at": new Date('2025-08-22T17:06:57Z'),
-  "text": "Perfect spot for hiding a rock.",
-  "likes_count": NumberInt(12)
+  "id": NumberLong(681194722424114086),
+  "author": { 
+    "id": NumberLong(3377718610482245), 
+    "username": "quartzseeker7160",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/atelier_moeske.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T06:52:59Z"),
+  "text": "Beautiful design ❤️",
+  "likes_count": NumberInt(4446)
 },
 {
-  "id": NumberLong(6251993),
-  "author": { "id": NumberLong(255471), "username": "stonehunter2915" },
-  "created_at": new Date('2025-08-22T17:05:57Z'),
+  "id": NumberLong(958635541052848354),
+  "author": { 
+    "id": NumberLong(2728669628981236), 
+    "username": "crystalwalker460",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/antoine_bayon31.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T07:43:59Z"),
+  "text": "This was a fun challenge! We checked a few wrong spots before spotting it tucked behind the signpost. Thanks for the adventure.",
+  "likes_count": NumberInt(0)
+},
+{
+  "id": NumberLong(1124168552280347482),
+  "author": { 
+    "id": NumberLong(2460810346665167), 
+    "username": "stonefan2296",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T09:08:59Z"),
+  "text": "Found it today, so cool!",
+  "likes_count": NumberInt(85)
+},
+{
+  "id": NumberLong(579312088942313564),
+  "author": { 
+    "id": NumberLong(425105367504129), 
+    "username": "stonewizard9297" 
+  },
+  "created_at": new Date("2025-08-20T09:19:59Z"),
+  "text": "We followed the hints and finally found it near the old tree. The colors are vibrant and the pattern is unique. Great hide! — with @[u:2821779752913993], @[u:1916082246294446], and @[u:2708676950088942]",
+  "mentions": [
+    { "id": NumberLong(2821779752913993), "username": "slateartist7142" },
+    { "id": NumberLong(1916082246294446), "username": "slateking5445" },
+    { "id": NumberLong(2708676950088942), "username": "rockguru7016" }
+  ],
+  "likes_count": NumberInt(5)
+},
+{
+  "id": NumberLong(289762222021390362),
+  "author": { 
+    "id": NumberLong(4465584237849029), 
+    "username": "granitebuddy101",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/peinture.sur.galet.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T10:25:59Z"),
+  "text": "At first we thought we wouldn’t find it, but after carefully looking near the bench, we discovered this hidden treasure. Thank you to whoever painted this! — thanks @[u:2914487697049776].",
+  "mentions": [
+    { "id": NumberLong(2914487697049776), "username": "rockcrawler5304" }
+  ],
+  "likes_count": NumberInt(5)
+},
+{
+  "id": NumberLong(612855057401368613),
+  "author": { 
+    "id": NumberLong(3188098792079793), 
+    "username": "slatefan8434",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T11:17:59Z"),
   "text": "Such bright colors!",
-  "likes_count": NumberInt(12)
+  "likes_count": NumberInt(8)
+},
+{
+  "id": NumberLong(918556854712290567),
+  "author": { 
+    "id": NumberLong(934515529697929), 
+    "username": "shardcrawler6911",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/melart.nails.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T11:47:59Z"),
+  "text": "Another rock for my collection 🪨 — with @[u:4456987047688618]",
+  "mentions": [
+    { "id": NumberLong(4456987047688618), "username": "stoneguru1142" }
+  ],
+  "likes_count": NumberInt(2)
+},
+{
+  "id": NumberLong(659393332541520287),
+  "author": { 
+    "id": NumberLong(877479505749464), 
+    "username": "quartzfinder2052" 
+  },
+  "created_at": new Date("2025-08-20T13:16:59Z"),
+  "text": "We spent the afternoon exploring the park and finally stumbled upon this rock. The design is beautiful and the kids were super excited to find it! — thanks @[u:1494981743881458], @[u:2272246487482056], and @[u:4198420508534421].",
+  "mentions": [
+    { "id": NumberLong(1494981743881458), "username": "rockhunter8350" },
+    { "id": NumberLong(2272246487482056), "username": "crystalhunter3675" },
+    { "id": NumberLong(4198420508534421), "username": "lavaartist9392" }
+  ],
+  "likes_count": NumberInt(0)
+},
+{
+  "id": NumberLong(516573014580831912),
+  "author": { 
+    "id": NumberLong(4488235193024364), 
+    "username": "pebbleartist5806",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/camille.strc.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T15:13:59Z"),
+  "text": "Thanks to @[u:2017626091259552], Awesome rock! 🤩",
+  "mentions": [
+    { "id": NumberLong(2017626091259552), "username": "quartzking6197" }
+  ],
+  "likes_count": NumberInt(8)
+},
+{
+  "id": NumberLong(251840515537625623),
+  "author": { 
+    "id": NumberLong(108369186407722), 
+    "username": "rockking2739",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/yogisowl.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T15:24:59Z"),
+  "text": "LOL almost missed it 😂",
+  "likes_count": NumberInt(1)
+},
+{
+  "id": NumberLong(262448651529629944),
+  "author": { 
+    "id": NumberLong(2072684893946739), 
+    "username": "rockartist1567",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/peinture.sur.galet.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T16:00:59Z"),
+  "text": "At first we thought we wouldn’t find it, but after carefully looking near the bench, we discovered this hidden treasure. Thank you to whoever painted this! — with @[u:391091737208590]",
+  "mentions": [
+    { "id": NumberLong(391091737208590), "username": "boulderlover6279" }
+  ],
+  "likes_count": NumberInt(0)
+},
+{
+  "id": NumberLong(709101859331663947),
+  "author": { 
+    "id": NumberLong(1599877835473370), 
+    "username": "rockguru9004",
+      "picture":{ 
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/hay_yoga_to_the_people.jpg" 
+      } 
+  },
+  "created_at": new Date("2025-08-20T17:05:59Z"),
+  "text": "Awesome rock! 🤩",
+  "likes_count": NumberInt(1204)
+},
+{
+  "id": NumberLong(749054570754951126),
+  "author": { 
+    "id": NumberLong(1346197635131407), 
+    "username": "basaltwizard4597" 
+  },
+  "created_at": new Date("2025-08-20T17:25:59Z"),
+  "text": "This was a fun challenge! We checked a few wrong spots before spotting it tucked behind the signpost. Thanks for the adventure. (cc @[u:3147577695770274])",
+  "mentions": [
+    { "id": NumberLong(3147577695770274), "username": "marblecrawler3716" }
+  ],
+  "likes_count": NumberInt(8)
 }
 ]
