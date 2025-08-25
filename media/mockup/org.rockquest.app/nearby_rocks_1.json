@@ -3,13 +3,13 @@
     "id":NumberLong(5476545235148907582),
     "creator":{
       "id":NumberLong(5563815712304689726),
-      "username":"stonepathfinder",
+      "username":"embermurmur",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 Hidden for someone curious to find."
+      "text":"A tiny traveler with bright edges and soft shadows, sealed for the trail."
     },
     "likes_count":NumberInt(12),
     "comments_count":NumberInt(0),
@@ -34,22 +34,17 @@
     "id":NumberLong(7550274040617759761),
     "creator":{
       "id":NumberLong(8651238383083104374),
-      "username":"pebblecollective",
+      "username":"wrenloom",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Colors coming to life on stone ✨ @[u:8651238383083104374]",
-      "mentions":[
-        {
-          "id":NumberLong(8651238383083104374),
-          "username":"pebblecollective"
-        }
-      ]
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its own little story, and the dotted rim leaves a clue for the next finder. Little hint: look behind the blue gate near the footbridge."
     },
     "likes_count":NumberInt(32),
     "comments_count":NumberInt(0),
+    "misses_count":NumberInt(3),
     "media":[
       {
         "type":NumberInt(2),
@@ -75,17 +70,17 @@
     "id":NumberLong(1897847581424761211),
     "creator":{
       "id":NumberLong(2700630848338542984),
-      "username":"stonepathfinder",
+      "username":"whispersong",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Ocean tones for this wandering rock 🌊 @[u:2700630848338542984]",
+      "text":"A bright hideaway waits near the trail; guided by @[u:2700630848338542984], then off it goes. Hint: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(2700630848338542984),
-          "username":"stonepathfinder"
+          "username":"hazelthreads"
         }
       ]
     },
@@ -102,13 +97,13 @@
       {
         "author":{
           "id":NumberLong(2700630848338542984),
-          "username":"stonepathfinder"
+          "username":"willowpaint"
         },
         "text":"Super clean lines. @[u:2700630848338542984]",
         "mentions":[
           {
             "id":NumberLong(2700630848338542984),
-            "username":"stonepathfinder"
+            "username":"sablesprout"
           }
         ]
       }
@@ -126,22 +121,26 @@
     "id":NumberLong(3897020376136735789),
     "creator":{
       "id":NumberLong(1594355936476222509),
-      "username":"bouboupaella",
+      "username":"sunsetnotes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/bouboupaella.jpg"
       }
     },
     "caption":{
-      "text":"@[u:1594355936476222509] Spreading good vibes with painted pebbles 💛",
+      "text":"A bright hideaway waits near the trail; with the help of @[u:1594355936476222509], then off it goes.",
       "mentions":[
         {
           "id":NumberLong(1594355936476222509),
-          "username":"bouboupaella"
+          "username":"embersprout"
         }
       ]
     },
     "likes_count":NumberInt(8),
     "comments_count":NumberInt(11),
+    "finder":{
+      "id":NumberLong(519453550045128260),
+      "username":"galedreams"
+    },
     "media":[
       {
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-05-04_11-11-23_UTC.jpg",
@@ -153,13 +152,13 @@
       {
         "author":{
           "id":NumberLong(1594355936476222509),
-          "username":"bouboupaella"
+          "username":"brackenink"
         },
         "text":"Stunning! @[u:1594355936476222509]",
         "mentions":[
           {
             "id":NumberLong(1594355936476222509),
-            "username":"bouboupaella"
+            "username":"foxstride"
           }
         ]
       }
@@ -172,25 +171,20 @@
     },
     "origin_id":NumberLong(1522503562160853500),
     "created_at":ISODate("2024-02-05T19:31:56.331Z"),
+    "found_at":ISODate("2025-08-20T14:02:15.136Z"),
     "missed":true
   },
   {
     "id":NumberLong(4738458542185377447),
     "creator":{
       "id":NumberLong(3143664859021315160),
-      "username":"galaxystoneart",
+      "username":"thistletrails",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/adizozor_galet.jpg"
       }
     },
     "caption":{
-      "text":"Spreading good vibes with painted pebbles 💛 @[u:3143664859021315160]",
-      "mentions":[
-        {
-          "id":NumberLong(3143664859021315160),
-          "username":"galaxystoneart"
-        }
-      ]
+      "text":"Some stones carry stories from the water’s edge; after the final clear coat I set this one where light flickers under leaves and footsteps slow for a second look. Little hint: look behind the blue gate near the footbridge."
     },
     "likes_count":NumberInt(42),
     "comments_count":NumberInt(29),
@@ -205,26 +199,26 @@
       {
         "author":{
           "id":NumberLong(3143664859021315160),
-          "username":"galaxystoneart"
+          "username":"brackenechoes"
         },
         "text":"@[u:3143664859021315160] Amazing work!",
         "mentions":[
           {
             "id":NumberLong(3143664859021315160),
-            "username":"galaxystoneart"
+            "username":"sagetales"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(3143664859021315160),
-          "username":"galaxystoneart"
+          "username":"larkpaint"
         },
         "text":"@[u:3143664859021315160] The balance between color and negative space feels perfect here. can’t wait to find it. I’ll share it with friends. Bravissimo ✨",
         "mentions":[
           {
             "id":NumberLong(3143664859021315160),
-            "username":"galaxystoneart"
+            "username":"cairnsketch"
           }
         ]
       }
@@ -243,16 +237,26 @@
     "id":NumberLong(2019686225638849901),
     "creator":{
       "id":NumberLong(6816841077580579511),
-      "username":"stonepathfinder",
+      "username":"brookdreams",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 Hidden for someone curious to find."
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; a small credit to @[u:6816841077580579511], and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Hint: look on the sunny side of the small bridge.",
+      "mentions":[
+        {
+          "id":NumberLong(6816841077580579511),
+          "username":"shorethreads"
+        }
+      ]
     },
     "likes_count":NumberInt(15),
     "comments_count":NumberInt(2),
+    "finder":{
+      "id":NumberLong(2881516109259582090),
+      "username":"cedarsong"
+    },
     "media":[
       {
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-13_16-29-09_UTC.jpg",
@@ -264,30 +268,30 @@
       {
         "author":{
           "id":NumberLong(6816841077580579511),
-          "username":"stonepathfinder"
+          "username":"terrawhisper"
         },
         "text":"@[u:7829470358020182344] @[u:5708383913257700856] The textures and colors come together beautifully on this rock. this belongs near the beach. adding it to my inspiration board. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(7829470358020182344),
-            "username":"stonepathfinder"
+            "username":"meadowpocket"
           },
           {
             "id":NumberLong(5708383913257700856),
-            "username":"mily_so_creativity_explorer"
+            "username":"flintkeeper"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(6816841077580579511),
-          "username":"stonepathfinder"
+          "username":"bramblevisions"
         },
         "text":"Such a sweet rock @[u:5708383913257700856]. can’t wait to find it. Love the vibe.",
         "mentions":[
           {
             "id":NumberLong(5708383913257700856),
-            "username":"mily_so_creativity_explorer"
+            "username":"groveminds"
           }
         ]
       }
@@ -300,23 +304,30 @@
     },
     "origin_id":NumberLong(2350280165838322038),
     "created_at":ISODate("2024-05-12T15:43:14.806Z"),
+    "found_at":ISODate("2025-08-22T00:45:12.330Z"),
     "liked":true
   },
   {
     "id":NumberLong(4786706528266268870),
     "creator":{
       "id":NumberLong(4586681203524208188),
-      "username":"melart.nails",
+      "username":"terrahands",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/melart.nails.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 Hidden for someone curious to find."
+      "text":"Fresh paint, soft edges, and a tiny wish to wander; a tip from @[u:4586681203524208188], now tucked for a new traveler. Little hint: look beneath the low branch beside the trail marker.",
+      "mentions":[
+        {
+          "id":NumberLong(4586681203524208188),
+          "username":"pebblemeadow"
+        }
+      ]
     },
     "likes_count":NumberInt(17),
     "comments_count":NumberInt(0),
-    "misses_count ":NumberInt(2),
+    "misses_count":NumberInt(2),
     "media":[
       {
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-04-12_16-54-37_UTC.jpg",
@@ -337,17 +348,17 @@
     "id":NumberLong(9073920834482692356),
     "creator":{
       "id":NumberLong(1924366700618363765),
-      "username":"pebblecollective",
+      "username":"ivyglow",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:1924366700618363765]",
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; cheered on by @[u:1924366700618363765], and now it waits for curious hands before traveling on. Quick clue: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(1924366700618363765),
-          "username":"pebblecollective"
+          "username":"brackenloom"
         }
       ]
     },
@@ -374,13 +385,13 @@
       {
         "author":{
           "id":NumberLong(1924366700618363765),
-          "username":"pebblecollective"
+          "username":"sabletravels"
         },
         "text":"@[u:1924366700618363765] Such a sweet rock. super crisp details. Keep it traveling!",
         "mentions":[
           {
             "id":NumberLong(1924366700618363765),
-            "username":"pebblecollective"
+            "username":"elmpaint"
           }
         ]
       }
@@ -398,17 +409,17 @@
     "id":NumberLong(406871753798139111),
     "creator":{
       "id":NumberLong(8576785635914973386),
-      "username":"pauilyne",
+      "username":"terraglade",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/pauilyne.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 @[u:8576785635914973386]",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by @[u:8576785635914973386], and the dotted rim leaves a clue for the next finder.",
       "mentions":[
         {
           "id":NumberLong(8576785635914973386),
-          "username":"pauilyne"
+          "username":"glimmerwhisper"
         }
       ]
     },
@@ -430,26 +441,26 @@
       {
         "author":{
           "id":NumberLong(8576785635914973386),
-          "username":"pauilyne"
+          "username":"sunsetminds"
         },
         "text":"@[u:8576785635914973386] Tiny but mighty.",
         "mentions":[
           {
             "id":NumberLong(8576785635914973386),
-            "username":"pauilyne"
+            "username":"flintsprout"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(8576785635914973386),
-          "username":"pauilyne"
+          "username":"heatherfinder"
         },
         "text":"@[u:8576785635914973386] This little stone is beautiful — I’ll keep my eyes open on the trail. So well done!",
         "mentions":[
           {
             "id":NumberLong(8576785635914973386),
-            "username":"pauilyne"
+            "username":"ripplenest"
           }
         ]
       }
@@ -467,17 +478,17 @@
     "id":NumberLong(4040261368598717564),
     "creator":{
       "id":NumberLong(8463542315273906797),
-      "username":"susanag0ncalves",
+      "username":"bouldergarden",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/susanag0ncalves.jpg"
       }
     },
     "caption":{
-      "text":"@[u:8463542315273906797] Captured a short clip while working on this rock 🎬",
+      "text":"A bright hideaway waits near the trail; a small credit to @[u:8463542315273906797], then off it goes.",
       "mentions":[
         {
           "id":NumberLong(8463542315273906797),
-          "username":"susanag0ncalves"
+          "username":"trailmarker"
         }
       ]
     },
@@ -498,13 +509,13 @@
       {
         "author":{
           "id":NumberLong(8463542315273906797),
-          "username":"susanag0ncalves"
+          "username":"sparrowloom"
         },
         "text":"@[u:8463542315273906797] Such a sweet rock. great idea for kids. Bravissimo ✨",
         "mentions":[
           {
             "id":NumberLong(8463542315273906797),
-            "username":"susanag0ncalves"
+            "username":"mapleweaver"
           }
         ]
       }
@@ -522,17 +533,17 @@
     "id":NumberLong(3927543280551069328),
     "creator":{
       "id":NumberLong(3014866707999453033),
-      "username":"stonepathfinder",
+      "username":"solpaint",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:3014866707999453033]",
+      "text":"A bright hideaway waits near the trail; a small credit to @[u:3014866707999453033], then off it goes. Hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(3014866707999453033),
-          "username":"stonepathfinder"
+          "username":"groveloom"
         }
       ]
     },
@@ -549,26 +560,26 @@
       {
         "author":{
           "id":NumberLong(3014866707999453033),
-          "username":"stonepathfinder"
+          "username":"shorewander"
         },
         "text":"I adore this style; lovely palette @[u:3014866707999453033]. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(3014866707999453033),
-            "username":"stonepathfinder"
+            "username":"coastnotes"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(3014866707999453033),
-          "username":"stonepathfinder"
+          "username":"glimmerpainter"
         },
         "text":"@[u:3014866707999453033] Super clean lines.",
         "mentions":[
           {
             "id":NumberLong(3014866707999453033),
-            "username":"stonepathfinder"
+            "username":"mosspainter"
           }
         ]
       }
@@ -586,13 +597,19 @@
     "id":NumberLong(1427054385270330539),
     "creator":{
       "id":NumberLong(2742602683757846071),
-      "username":"rocksinthewoods",
+      "username":"brookmarker",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/rocksinthewoods.jpg"
       }
     },
     "caption":{
-      "text":"Captured a short clip while working on this rock 🎬 Hidden for someone curious to find."
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; inspired by @[u:2742602683757846071], and now it waits for curious hands before traveling on. Trail tip: look under the second bench by the old wall.",
+      "mentions":[
+        {
+          "id":NumberLong(2742602683757846071),
+          "username":"ripplethreads"
+        }
+      ]
     },
     "likes_count":NumberInt(3),
     "comments_count":NumberInt(27),
@@ -621,13 +638,13 @@
       {
         "author":{
           "id":NumberLong(2742602683757846071),
-          "username":"rocksinthewoods"
+          "username":"sparrowsong"
         },
         "text":"@[u:2742602683757846071] Tiny but mighty.",
         "mentions":[
           {
             "id":NumberLong(2742602683757846071),
-            "username":"rocksinthewoods"
+            "username":"whisperthreads"
           }
         ]
       }
@@ -645,19 +662,19 @@
     "id":NumberLong(9153439059410262302),
     "creator":{
       "id":NumberLong(2395588330794334214),
-      "username":"pebblecollective",
+      "username":"grovehollow",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 Hidden for someone curious to find."
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together, tucked beside a path marker so a stranger can feel that quiet spark and pass it along. Little hint: look under a flat stone near the picnic table."
     },
     "likes_count":NumberInt(36),
     "comments_count":NumberInt(15),
     "finder":{
       "id":NumberLong(3940288628828112861),
-      "username":"sunnyislandvibes"
+      "username":"brackenmender"
     },
     "media":[
       {
@@ -670,26 +687,26 @@
       {
         "author":{
           "id":NumberLong(2395588330794334214),
-          "username":"pebblecollective"
+          "username":"coastpaths"
         },
         "text":"This little stone is beautiful — perfect for a re-hide @[u:3940288628828112861]. So well done!",
         "mentions":[
           {
             "id":NumberLong(3940288628828112861),
-            "username":"sunnyislandvibes"
+            "username":"ridgemeadow"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(2395588330794334214),
-          "username":"pebblecollective"
+          "username":"lumenfinder"
         },
         "text":"@[u:3940288628828112861] Love it!",
         "mentions":[
           {
             "id":NumberLong(3940288628828112861),
-            "username":"sunnyislandvibes"
+            "username":"wrenstudio"
           }
         ]
       }
@@ -708,19 +725,13 @@
     "id":NumberLong(3687684783824542224),
     "creator":{
       "id":NumberLong(362736150547648955),
-      "username":"paintedstones",
+      "username":"dunehands",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/peinture.sur.galet.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 @[u:362736150547648955]",
-      "mentions":[
-        {
-          "id":NumberLong(362736150547648955),
-          "username":"paintedstones"
-        }
-      ]
+      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight. Quick clue: look on the sunny side of the small bridge."
     },
     "likes_count":NumberInt(5),
     "comments_count":NumberInt(0),
@@ -759,17 +770,17 @@
     "id":NumberLong(5268292282323246253),
     "creator":{
       "id":NumberLong(274956742377446972),
-      "username":"stoeyes",
+      "username":"dunebreeze",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/stoeyes.jpg"
       }
     },
     "caption":{
-      "text":"Colors coming to life on stone ✨ @[u:274956742377446972]",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; guided by @[u:274956742377446972], and the dotted rim leaves a clue for the next finder.",
       "mentions":[
         {
           "id":NumberLong(274956742377446972),
-          "username":"stoeyes"
+          "username":"sablewander"
         }
       ]
     },
@@ -777,7 +788,7 @@
     "comments_count":NumberInt(20),
     "finder":{
       "id":NumberLong(3020154276439293477),
-      "username":"sylviaboehm.art"
+      "username":"marbleatlas"
     },
     "media":[
       {
@@ -809,24 +820,24 @@
       {
         "author":{
           "id":NumberLong(274956742377446972),
-          "username":"stoeyes"
+          "username":"elmnest"
         },
         "text":"Love it!"
       },
       {
         "author":{
           "id":NumberLong(274956742377446972),
-          "username":"stoeyes"
+          "username":"galefield"
         },
         "text":"Stunning! @[u:274956742377446972]",
         "mentions":[
           {
             "id":NumberLong(3020154276439293477),
-            "username":"sylviaboehm.art"
+            "username":"coastmarker"
           },
           {
             "id":NumberLong(274956742377446972),
-            "username":"stoeyes"
+            "username":"sprucefinder"
           }
         ]
       }
@@ -845,19 +856,13 @@
     "id":NumberLong(2841762006371911592),
     "creator":{
       "id":NumberLong(7533268330970422539),
-      "username":"stonepathfinder",
+      "username":"sparrowechoes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"@[u:7533268330970422539] This stone is ready for a new journey 🚶‍♀️",
-      "mentions":[
-        {
-          "id":NumberLong(7533268330970422539),
-          "username":"stonepathfinder"
-        }
-      ]
+      "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes."
     },
     "likes_count":NumberInt(18),
     "comments_count":NumberInt(2),
@@ -872,26 +877,26 @@
       {
         "author":{
           "id":NumberLong(7533268330970422539),
-          "username":"stonepathfinder"
+          "username":"elmscribe"
         },
         "text":"Color choices are on point @[u:7533268330970422539]. great idea for kids. Keep it traveling!",
         "mentions":[
           {
             "id":NumberLong(7533268330970422539),
-            "username":"stonepathfinder"
+            "username":"shorestones"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(7533268330970422539),
-          "username":"stonepathfinder"
+          "username":"shorenotes"
         },
         "text":"The textures and colors come together beautifully on this rock. great composition. saving this idea for later. Thanks for the inspo. @[u:7533268330970422539]",
         "mentions":[
           {
             "id":NumberLong(7533268330970422539),
-            "username":"stonepathfinder"
+            "username":"brambleshores"
           }
         ]
       }
@@ -910,19 +915,13 @@
     "id":NumberLong(6148377876101668078),
     "creator":{
       "id":NumberLong(6606406776407491029),
-      "username":"stonepathfinder",
+      "username":"ripplemender",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"This stone is ready for a new journey 🚶‍♀️ @[u:6606406776407491029]",
-      "mentions":[
-        {
-          "id":NumberLong(6606406776407491029),
-          "username":"stonepathfinder"
-        }
-      ]
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together, tucked beside a path marker so a stranger can feel that quiet spark and pass it along. Hint: look tucked by the corner of the stone fountain."
     },
     "likes_count":NumberInt(4),
     "comments_count":NumberInt(28),
@@ -937,7 +936,7 @@
       {
         "author":{
           "id":NumberLong(6606406776407491029),
-          "username":"stonepathfinder"
+          "username":"larkshores"
         },
         "text":"This made my day. lovely palette. Bravissimo ✨"
       }
@@ -956,13 +955,13 @@
     "id":NumberLong(7614148112396289981),
     "creator":{
       "id":NumberLong(1796564950805927489),
-      "username":"jardinpetitrianon",
+      "username":"quartzkeeper",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/jardinpetitrianon.jpg"
       }
     },
     "caption":{
-      "text":"Spreading good vibes with painted pebbles 💛 Hidden for someone curious to find."
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message carry it onward. Hint: look next to the third step of the wooden stairs."
     },
     "likes_count":NumberInt(163),
     "comments_count":NumberInt(0),
@@ -986,13 +985,19 @@
     "id":NumberLong(9035301144706084429),
     "creator":{
       "id":NumberLong(4890508439740804181),
-      "username":"stonepathfinder",
+      "username":"echopainter",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 Hidden for someone curious to find."
+      "text":"Some stones carry stories from the water’s edge; this one felt like a pocket postcard; after the final clear coat, thanks @[u:4890508439740804181] for the idea, I set it where light flickers under leaves and footsteps slow for a second look. Quick clue: look near the mossy stump just past the bend.",
+      "mentions":[
+        {
+          "id":NumberLong(4890508439740804181),
+          "username":"emberpaint"
+        }
+      ]
     },
     "likes_count":NumberInt(17),
     "comments_count":NumberInt(11),
@@ -1007,13 +1012,13 @@
       {
         "author":{
           "id":NumberLong(4890508439740804181),
-          "username":"stonepathfinder"
+          "username":"fernatlas"
         },
         "text":"@[u:4890508439740804181] Beautiful colors!",
         "mentions":[
           {
             "id":NumberLong(4890508439740804181),
-            "username":"stonepathfinder"
+            "username":"dunetravels"
           }
         ]
       }
@@ -1032,17 +1037,17 @@
     "id":NumberLong(2503130178380547667),
     "creator":{
       "id":NumberLong(452856248432185649),
-      "username":"zeereels._",
+      "username":"mossfinder",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/zeereels._.jpg"
       }
     },
     "caption":{
-      "text":"Colors coming to life on stone ✨ @[u:452856248432185649]",
+      "text":"Ocean blues layered into calm; color advice from @[u:452856248432185649], sealed and ready to roam. Little hint: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(452856248432185649),
-          "username":"zeereels._"
+          "username":"hazelpaint"
         }
       ]
     },
@@ -1063,26 +1068,26 @@
       {
         "author":{
           "id":NumberLong(452856248432185649),
-          "username":"zeereels._"
+          "username":"solpaths"
         },
         "text":"Such a sweet rock. this belongs near the beach. Thanks for the inspo. @[u:452856248432185649]",
         "mentions":[
           {
             "id":NumberLong(452856248432185649),
-            "username":"zeereels._"
+            "username":"riversprout"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(452856248432185649),
-          "username":"zeereels._"
+          "username":"sparrowgazer"
         },
         "text":"@[u:452856248432185649] Great vibes.",
         "mentions":[
           {
             "id":NumberLong(452856248432185649),
-            "username":"zeereels._"
+            "username":"maplescribe"
           }
         ]
       }
@@ -1100,17 +1105,17 @@
     "id":NumberLong(1440481587934252549),
     "creator":{
       "id":NumberLong(6265404287597890724),
-      "username":"littlepebbleart",
+      "username":"hazelkeeper",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/ptit_caillou_.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 @[u:6265404287597890724]",
+      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, guided by @[u:6265404287597890724], then fades to gentle gray so it can hide in plain sight. Little hint: look at the base of the tallest pine by the clearing.",
       "mentions":[
         {
           "id":NumberLong(6265404287597890724),
-          "username":"littlepebbleart"
+          "username":"coastcrafts"
         }
       ]
     },
@@ -1136,19 +1141,13 @@
     "id":NumberLong(938069434430432523),
     "creator":{
       "id":NumberLong(1944302228341726047),
-      "username":"artbyshagun",
+      "username":"sparrowstudio",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/artbyshagun.jpg"
       }
     },
     "caption":{
-      "text":"@[u:1944302228341726047] Captured a short clip while working on this rock 🎬",
-      "mentions":[
-        {
-          "id":NumberLong(1944302228341726047),
-          "username":"artbyshagun"
-        }
-      ]
+      "text":"Quick sketch on smooth granite, finished with a thin line to keep it steady. Tiny hint: look on the sunny side of the small bridge."
     },
     "likes_count":NumberInt(1262),
     "comments_count":NumberInt(27),
@@ -1167,20 +1166,20 @@
       {
         "author":{
           "id":NumberLong(1944302228341726047),
-          "username":"artbyshagun"
+          "username":"grovemender"
         },
         "text":"Such a sweet rock. perfect for a re-hide. Love the vibe."
       },
       {
         "author":{
           "id":NumberLong(1944302228341726047),
-          "username":"artbyshagun"
+          "username":"stonepaint"
         },
         "text":"Gorgeous piece 💖 @[u:1944302228341726047]",
         "mentions":[
           {
             "id":NumberLong(1944302228341726047),
-            "username":"artbyshagun"
+            "username":"flintpainter"
           }
         ]
       }
@@ -1198,19 +1197,13 @@
     "id":NumberLong(3188490546788403021),
     "creator":{
       "id":NumberLong(5510977260720180414),
-      "username":"stonepathfinder",
+      "username":"quartztrails",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Ocean tones for this wandering rock 🌊 @[u:5510977260720180414]",
-      "mentions":[
-        {
-          "id":NumberLong(5510977260720180414),
-          "username":"stonepathfinder"
-        }
-      ]
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its own little story, and the dotted rim leaves a clue for the next finder. Quick clue: look on the sunny side of the small bridge."
     },
     "likes_count":NumberInt(6),
     "comments_count":NumberInt(15),
@@ -1225,20 +1218,20 @@
       {
         "author":{
           "id":NumberLong(5510977260720180414),
-          "username":"stonepathfinder"
+          "username":"pebbleechoes"
         },
         "text":"@[u:5510977260720180414] I’m impressed by the tiny details and the clean edges on this piece — it really stands out. great composition. adding it to my inspiration board. Thanks for the inspo.",
         "mentions":[
           {
             "id":NumberLong(5510977260720180414),
-            "username":"stonepathfinder"
+            "username":"mossnest"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(5510977260720180414),
-          "username":"stonepathfinder"
+          "username":"thistlenest"
         },
         "text":"Color choices are on point. perfect for a re-hide. So well done!"
       }
@@ -1257,13 +1250,13 @@
     "id":NumberLong(3005090943720611065),
     "creator":{
       "id":NumberLong(3643863996066229444),
-      "username":"pebblecollective",
+      "username":"heathersketch",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 Hidden for someone curious to find."
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; now it waits for curious hands before traveling on. Quick clue: look behind the information board by the car park."
     },
     "likes_count":NumberInt(18),
     "comments_count":NumberInt(24),
@@ -1288,13 +1281,13 @@
       {
         "author":{
           "id":NumberLong(3643863996066229444),
-          "username":"pebblecollective"
+          "username":"emberatlas"
         },
         "text":"Tiny but mighty. @[u:3643863996066229444]",
         "mentions":[
           {
             "id":NumberLong(3643863996066229444),
-            "username":"pebblecollective"
+            "username":"brambleweaver"
           }
         ]
       }
@@ -1312,19 +1305,19 @@
     "id":NumberLong(9103859108777063999),
     "creator":{
       "id":NumberLong(2642874057838520987),
-      "username":"refugeentrelelac",
+      "username":"trailgazer",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/refugeentrelelac.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 Hidden for someone curious to find."
+      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight. Trail tip: look tucked by the corner of the stone fountain."
     },
     "likes_count":NumberInt(73),
     "comments_count":NumberInt(9),
     "finder":{
       "id":NumberLong(4222702858321657910),
-      "username":"dreamyhorses"
+      "username":"terrabreeze"
     },
     "media":[
       {
@@ -1342,17 +1335,17 @@
       {
         "author":{
           "id":NumberLong(2642874057838520987),
-          "username":"refugeentrelelac"
+          "username":"maplehollow"
         },
         "text":"Great vibes. @[u:2642874057838520987]",
         "mentions":[
           {
             "id":NumberLong(4222702858321657910),
-            "username":"dreamyhorses"
+            "username":"brookpaint"
           },
           {
             "id":NumberLong(2642874057838520987),
-            "username":"refugeentrelelac"
+            "username":"coastscribe"
           }
         ]
       }
@@ -1371,17 +1364,17 @@
     "id":NumberLong(7891713851564434877),
     "creator":{
       "id":NumberLong(2736604585277333255),
-      "username":"365_buntetage",
+      "username":"hollowstory",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/365_buntetage.jpg"
       }
     },
     "caption":{
-      "text":"Captured a short clip while working on this rock 🎬 @[u:2736604585277333255]",
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; a tip from @[u:2736604585277333255], and now it waits for curious hands before traveling on. Hint: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(2736604585277333255),
-          "username":"365_buntetage"
+          "username":"riverhands"
         }
       ]
     },
@@ -1411,17 +1404,17 @@
     "id":NumberLong(2645035431250357172),
     "creator":{
       "id":NumberLong(3498799111328064332),
-      "username":"pebblecollective",
+      "username":"willowtales",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:3498799111328064332]",
+      "text":"A bright hideaway waits near the trail; a tip from @[u:3498799111328064332], then off it goes. Quick clue: look under a flat stone near the picnic table.",
       "mentions":[
         {
           "id":NumberLong(3498799111328064332),
-          "username":"pebblecollective"
+          "username":"lumentravels"
         }
       ]
     },
@@ -1438,13 +1431,13 @@
       {
         "author":{
           "id":NumberLong(3498799111328064332),
-          "username":"pebblecollective"
+          "username":"poppyhollow"
         },
         "text":"Color choices are on point @[u:3498799111328064332]. lovely palette. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(3498799111328064332),
-            "username":"pebblecollective"
+            "username":"glimmermarker"
           }
         ]
       }
@@ -1462,19 +1455,13 @@
     "id":NumberLong(298007875730369345),
     "creator":{
       "id":NumberLong(382296131540154649),
-      "username":"flor_art_ink",
+      "username":"sagegazer",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/flor_art_ink.jpg"
       }
     },
     "caption":{
-      "text":"@[u:382296131540154649] A fresh pebble painted with love 🎨",
-      "mentions":[
-        {
-          "id":NumberLong(382296131540154649),
-          "username":"flor_art_ink"
-        }
-      ]
+      "text":"A tiny traveler with bright edges and soft shadows, sealed for the trail. Tiny hint: look tucked by the corner of the stone fountain."
     },
     "likes_count":NumberInt(17),
     "comments_count":NumberInt(7),
@@ -1489,17 +1476,17 @@
       {
         "author":{
           "id":NumberLong(382296131540154649),
-          "username":"flor_art_ink"
+          "username":"ivythreads"
         },
         "text":"@[u:1457505142410161395] @[u:382296131540154649] This made my day. perfect for a re-hide. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(1457505142410161395),
-            "username":"lepetit.sabine"
+            "username":"terramurmur"
           },
           {
             "id":NumberLong(382296131540154649),
-            "username":"flor_art_ink"
+            "username":"willowmarker"
           }
         ]
       }
@@ -1517,17 +1504,17 @@
     "id":NumberLong(404074995555557835),
     "creator":{
       "id":NumberLong(4177007368105052573),
-      "username":"stonepathfinder",
+      "username":"ripplepaths",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"This stone is ready for a new journey 🚶‍♀️ @[u:4177007368105052573]",
+      "text":"Ocean blues layered into calm; thanks @[u:4177007368105052573] for the help, sealed and ready to roam. Little hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(4177007368105052573),
-          "username":"stonepathfinder"
+          "username":"foxthreads"
         }
       ]
     },
@@ -1544,13 +1531,13 @@
       {
         "author":{
           "id":NumberLong(4177007368105052573),
-          "username":"stonepathfinder"
+          "username":"poppywhisper"
         },
         "text":"@[u:4177007368105052573] So inspiring and joyful. can’t wait to find it. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(4177007368105052573),
-            "username":"stonepathfinder"
+            "username":"trailstones"
           }
         ]
       }
@@ -1568,13 +1555,19 @@
     "id":NumberLong(6253191146281346483),
     "creator":{
       "id":NumberLong(4455962596089681768),
-      "username":"pebblecollective",
+      "username":"terratrails",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 Hidden for someone curious to find."
+      "text":"Ocean blues layered into calm; inspired by @[u:4455962596089681768], sealed and ready to roam. Quick clue: look on the sunny side of the small bridge.",
+      "mentions":[
+        {
+          "id":NumberLong(4455962596089681768),
+          "username":"sprucehands"
+        }
+      ]
     },
     "likes_count":NumberInt(23),
     "comments_count":NumberInt(3),
@@ -1589,20 +1582,20 @@
       {
         "author":{
           "id":NumberLong(4455962596089681768),
-          "username":"pebblecollective"
+          "username":"sunsetpaint"
         },
         "text":"@[u:4455962596089681768] Great composition here — perfect for a re-hide. Keep it traveling!",
         "mentions":[
           {
             "id":NumberLong(4455962596089681768),
-            "username":"pebblecollective"
+            "username":"sparrowminds"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(4455962596089681768),
-          "username":"pebblecollective"
+          "username":"meadowbreeze"
         },
         "text":"Such a sweet rock. I’ll keep my eyes open on the trail. Can’t stop staring 😍"
       }
@@ -1620,19 +1613,25 @@
     "id":NumberLong(8390149122222146883),
     "creator":{
       "id":NumberLong(3889061766441240554),
-      "username":"angela.martens.90",
+      "username":"fernstones",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/angela.martens.90.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 Hidden for someone curious to find."
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; a small credit to @[u:3889061766441240554], and the dotted rim leaves a clue for the next finder. Trail tip: look tucked by the corner of the stone fountain.",
+      "mentions":[
+        {
+          "id":NumberLong(3889061766441240554),
+          "username":"boulderpaint"
+        }
+      ]
     },
     "likes_count":NumberInt(19),
     "comments_count":NumberInt(26),
     "finder":{
       "id":NumberLong(6112842216919535834),
-      "username":"dreamyhorses"
+      "username":"ferngazer"
     },
     "media":[
       {
@@ -1650,17 +1649,17 @@
       {
         "author":{
           "id":NumberLong(3889061766441240554),
-          "username":"angela.martens.90"
+          "username":"shoregarden"
         },
         "text":"@[u:3889061766441240554] @[u:6112842216919535834] The textures and colors come together beautifully on this rock. great composition. adding it to my inspiration board. Can’t stop staring 😍",
         "mentions":[
           {
             "id":NumberLong(3889061766441240554),
-            "username":"angela.martens.90"
+            "username":"trailsong"
           },
           {
             "id":NumberLong(6112842216919535834),
-            "username":"dreamyhorses"
+            "username":"dunewander"
           }
         ]
       }
@@ -1680,19 +1679,13 @@
     "id":NumberLong(2505101236659153483),
     "creator":{
       "id":NumberLong(5578230449963102670),
-      "username":"transporte_nous",
+      "username":"sageechoes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/transporte_nous.jpg"
       }
     },
     "caption":{
-      "text":"Spreading good vibes with painted pebbles 💛 @[u:5578230449963102670]",
-      "mentions":[
-        {
-          "id":NumberLong(5578230449963102670),
-          "username":"transporte_nous"
-        }
-      ]
+      "text":"Quick sketch on smooth granite, finished with a thin line to keep it steady. Hint: look behind the information board by the car park."
     },
     "likes_count":NumberInt(70),
     "comments_count":NumberInt(19),
@@ -1707,17 +1700,17 @@
       {
         "author":{
           "id":NumberLong(5578230449963102670),
-          "username":"transporte_nous"
+          "username":"foxminds"
         },
         "text":"I’m impressed by the tiny details and the clean edges on this piece — it really stands out. great idea for kids. hope it keeps traveling. Love the vibe. @[u:7908276698649708433]",
         "mentions":[
           {
             "id":NumberLong(2794132616872014745),
-            "username":"happytripfamily"
+            "username":"pebblemarker"
           },
           {
             "id":NumberLong(7908276698649708433),
-            "username":"bossymelanie"
+            "username":"mistglow"
           }
         ]
       }
@@ -1736,23 +1729,23 @@
     "id":NumberLong(5848493557167322594),
     "creator":{
       "id":NumberLong(8439219487398192012),
-      "username":"pebblehunter73",
+      "username":"sprucevisions",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet73000.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 @[u:8439219487398192012]",
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; cheered on by @[u:8439219487398192012], and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Trail tip: look at the base of the tallest pine by the clearing.",
       "mentions":[
         {
           "id":NumberLong(8439219487398192012),
-          "username":"pebblehunter73"
+          "username":"ridgeglade"
         }
       ]
     },
     "likes_count":NumberInt(13),
     "comments_count":NumberInt(10),
-    "misses_count ":NumberInt(5),
+    "misses_count":NumberInt(5),
     "media":[
       {
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-10-22_10-20-39_UTC.jpg",
@@ -1764,13 +1757,13 @@
       {
         "author":{
           "id":NumberLong(8439219487398192012),
-          "username":"pebblehunter73"
+          "username":"cairnloom"
         },
         "text":"@[u:8439219487398192012] Great composition here — great idea for kids. Thanks for the inspo.",
         "mentions":[
           {
             "id":NumberLong(8439219487398192012),
-            "username":"pebblehunter73"
+            "username":"poppythreads"
           }
         ]
       }
@@ -1789,17 +1782,17 @@
     "id":NumberLong(8902595827398485459),
     "creator":{
       "id":NumberLong(8190676328002888889),
-      "username":"melcolors",
+      "username":"meadowmarker",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/mel.en.couleurs.jpg"
       }
     },
     "caption":{
-      "text":"@[u:8190676328002888889] Spreading good vibes with painted pebbles 💛",
+      "text":"A bright hideaway waits near the trail; a small credit to @[u:8190676328002888889], then off it goes. Trail tip: look behind the information board by the car park.",
       "mentions":[
         {
           "id":NumberLong(8190676328002888889),
-          "username":"melcolors"
+          "username":"ridgestride"
         }
       ]
     },
@@ -1816,26 +1809,26 @@
       {
         "author":{
           "id":NumberLong(8190676328002888889),
-          "username":"melcolors"
+          "username":"driftnest"
         },
         "text":"Stunning! @[u:8190676328002888889]",
         "mentions":[
           {
             "id":NumberLong(8190676328002888889),
-            "username":"melcolors"
+            "username":"flintink"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(8190676328002888889),
-          "username":"melcolors"
+          "username":"stoneglade"
         },
         "text":"@[u:4316619099347869305] Stunning!",
         "mentions":[
           {
             "id":NumberLong(4316619099347869305),
-            "username":"__muska__n__"
+            "username":"ivystones"
           }
         ]
       }
@@ -1854,27 +1847,23 @@
     "id":NumberLong(9075616211596216650),
     "creator":{
       "id":NumberLong(3163537804723199247),
-      "username":"zeereels._",
+      "username":"wrentales",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/zeereels._.jpg"
       }
     },
     "caption":{
-      "text":"Colors coming to life on stone ✨ @[u:3163537804723199247]",
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, a tip from @[u:3163537804723199247], carry it onward. Quick clue: look behind the blue gate near the footbridge.",
       "mentions":[
         {
           "id":NumberLong(3163537804723199247),
-          "username":"zeereels._"
-        },
-        {
-          "id":NumberLong(1214379045243921194),
-          "username":"artist_komali"
+          "username":"hazelmarker"
         }
       ]
     },
     "likes_count":NumberInt(13750),
     "comments_count":NumberInt(0),
-    "misses_count ":NumberInt(3),
+    "misses_count":NumberInt(3),
     "media":[
       {
         "type":NumberInt(2),
@@ -1899,13 +1888,19 @@
     "id":NumberLong(4773124193774323045),
     "creator":{
       "id":NumberLong(5458499496307786655),
-      "username":"stonepathfinder",
+      "username":"ridgemakes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"A fresh pebble painted with love 🎨 Hidden for someone curious to find."
+      "text":"A bright hideaway waits near the trail; a tip from @[u:5458499496307786655], then off it goes. Trail tip: look under the second bench by the old wall.",
+      "mentions":[
+        {
+          "id":NumberLong(5458499496307786655),
+          "username":"sparrowstory"
+        }
+      ]
     },
     "likes_count":NumberInt(28),
     "comments_count":NumberInt(12),
@@ -1920,13 +1915,13 @@
       {
         "author":{
           "id":NumberLong(5458499496307786655),
-          "username":"stonepathfinder"
+          "username":"fernloom"
         },
         "text":"The balance between color and negative space feels perfect here. can’t wait to find it. I’ll rehide it soon. Bravissimo ✨ @[u:5458499496307786655]",
         "mentions":[
           {
             "id":NumberLong(5458499496307786655),
-            "username":"stonepathfinder"
+            "username":"ridgegazer"
           }
         ]
       }
@@ -1945,13 +1940,13 @@
     "id":NumberLong(1323211994550709649),
     "creator":{
       "id":NumberLong(5814254622250609524),
-      "username":"littlepebbleart",
+      "username":"spruceweaver",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/ptit_caillou_.jpg"
       }
     },
     "caption":{
-      "text":"This stone is ready for a new journey 🚶‍♀️ Hidden for someone curious to find."
+      "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes. Trail tip: look behind the information board by the car park."
     },
     "likes_count":NumberInt(24),
     "comments_count":NumberInt(13),
@@ -1966,13 +1961,13 @@
       {
         "author":{
           "id":NumberLong(5814254622250609524),
-          "username":"littlepebbleart"
+          "username":"mistmurmur"
         },
         "text":"@[u:5814254622250609524] Beautiful colors!",
         "mentions":[
           {
             "id":NumberLong(5814254622250609524),
-            "username":"littlepebbleart"
+            "username":"terrastones"
           }
         ]
       }
@@ -1990,17 +1985,17 @@
     "id":NumberLong(7301391047183351263),
     "creator":{
       "id":NumberLong(7547115020751301019),
-      "username":"dinospark85",
+      "username":"hollownotes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/dinospark85.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:7547115020751301019]",
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, cheered on by @[u:7547115020751301019], carry it onward. Tiny hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(7547115020751301019),
-          "username":"dinospark85"
+          "username":"sprucestory"
         }
       ]
     },
@@ -2022,26 +2017,26 @@
       {
         "author":{
           "id":NumberLong(7547115020751301019),
-          "username":"dinospark85"
+          "username":"sparrowpocket"
         },
         "text":"@[u:7547115020751301019] This little stone is beautiful — can’t wait to find it. Thanks for the inspo.",
         "mentions":[
           {
             "id":NumberLong(7547115020751301019),
-            "username":"dinospark85"
+            "username":"sparrowmakes"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(7547115020751301019),
-          "username":"dinospark85"
+          "username":"ripplescribe"
         },
         "text":"@[u:7547115020751301019] Super clean lines.",
         "mentions":[
           {
             "id":NumberLong(7547115020751301019),
-            "username":"dinospark85"
+            "username":"sunsetscribe"
           }
         ]
       }
@@ -2059,25 +2054,19 @@
     "id":NumberLong(6627131441062725180),
     "creator":{
       "id":NumberLong(2301441178912666631),
-      "username":"stonepathfinder",
+      "username":"rivernotes",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongalet.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:2301441178912666631]",
-      "mentions":[
-        {
-          "id":NumberLong(2301441178912666631),
-          "username":"stonepathfinder"
-        }
-      ]
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its own little story, and the dotted rim leaves a clue for the next finder. Quick clue: look behind the blue gate near the footbridge."
     },
     "likes_count":NumberInt(21),
     "comments_count":NumberInt(28),
     "finder":{
       "id":NumberLong(6778039015387308831),
-      "username":"stonepathfinder"
+      "username":"boulderstudio"
     },
     "media":[
       {
@@ -2090,26 +2079,26 @@
       {
         "author":{
           "id":NumberLong(2301441178912666631),
-          "username":"stonepathfinder"
+          "username":"fernshores"
         },
         "text":"So inspiring and joyful. lovely palette. So well done! @[u:2301441178912666631]",
         "mentions":[
           {
             "id":NumberLong(2301441178912666631),
-            "username":"stonepathfinder"
+            "username":"solstones"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(2301441178912666631),
-          "username":"stonepathfinder"
+          "username":"thistlescribe"
         },
         "text":"@[u:6778039015387308831] This made my day. this belongs near the beach. Bravissimo ✨",
         "mentions":[
           {
             "id":NumberLong(6778039015387308831),
-            "username":"stonepathfinder"
+            "username":"brackenkeeper"
           }
         ]
       }
@@ -2128,19 +2117,13 @@
     "id":NumberLong(7938570752870391576),
     "creator":{
       "id":NumberLong(5109202752921035237),
-      "username":"caroline_south",
+      "username":"fernsong",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/caroline_south.jpg"
       }
     },
     "caption":{
-      "text":"@[u:5109202752921035237] Colors coming to life on stone ✨",
-      "mentions":[
-        {
-          "id":NumberLong(5109202752921035237),
-          "username":"caroline_south"
-        }
-      ]
+      "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes. Quick clue: look under a flat stone near the picnic table."
     },
     "likes_count":NumberInt(1554),
     "comments_count":NumberInt(2),
@@ -2159,7 +2142,7 @@
       {
         "author":{
           "id":NumberLong(5109202752921035237),
-          "username":"caroline_south"
+          "username":"meadowkeeper"
         },
         "text":"I adore this style; great composition. So well done!"
       }
@@ -2177,19 +2160,13 @@
     "id":NumberLong(4399609517343715595),
     "creator":{
       "id":NumberLong(2905741298325966817),
-      "username":"pebblecollective",
+      "username":"poppytales",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/trouvemongaletles3n.jpg"
       }
     },
     "caption":{
-      "text":"Left this little treasure on the path 🌿 @[u:2905741298325966817]",
-      "mentions":[
-        {
-          "id":NumberLong(2905741298325966817),
-          "username":"pebblecollective"
-        }
-      ]
+      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight."
     },
     "likes_count":NumberInt(22),
     "comments_count":NumberInt(17),
@@ -2204,26 +2181,26 @@
       {
         "author":{
           "id":NumberLong(2905741298325966817),
-          "username":"pebblecollective"
+          "username":"stonecrafts"
         },
         "text":"@[u:2905741298325966817] Great composition here — super crisp details. Keep it traveling!",
         "mentions":[
           {
             "id":NumberLong(2905741298325966817),
-            "username":"pebblecollective"
+            "username":"coastpainter"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(2905741298325966817),
-          "username":"pebblecollective"
+          "username":"hazelglade"
         },
         "text":"So inspiring and joyful @[u:2905741298325966817]. this belongs near the beach. Thanks for the inspo.",
         "mentions":[
           {
             "id":NumberLong(2905741298325966817),
-            "username":"pebblecollective"
+            "username":"ripplefinder"
           }
         ]
       }
@@ -2241,17 +2218,23 @@
     "id":NumberLong(5947626804830357328),
     "creator":{
       "id":NumberLong(4938298060005964609),
-      "username":"cocobm34",
+      "username":"sageminds",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/cocobm34.jpg"
       }
     },
     "caption":{
-      "text":"Captured a short clip while working on this rock 🎬 Hidden for someone curious to find."
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by @[u:4938298060005964609], and the dotted rim leaves a clue for the next finder. Tiny hint: look at the base of the tallest pine by the clearing.",
+      "mentions":[
+        {
+          "id":NumberLong(4938298060005964609),
+          "username":"shoreshores"
+        }
+      ]
     },
     "likes_count":NumberInt(287),
     "comments_count":NumberInt(4),
-    "misses_count ":NumberInt(6),
+    "misses_count":NumberInt(6),
     "media":[
       {
         "type":NumberInt(2),
@@ -2267,26 +2250,26 @@
       {
         "author":{
           "id":NumberLong(4938298060005964609),
-          "username":"cocobm34"
+          "username":"sageglade"
         },
         "text":"Color choices are on point. can’t wait to find it. So well done! @[u:4938298060005964609]",
         "mentions":[
           {
             "id":NumberLong(4938298060005964609),
-            "username":"cocobm34"
+            "username":"wrenwhisper"
           }
         ]
       },
       {
         "author":{
           "id":NumberLong(4938298060005964609),
-          "username":"cocobm34"
+          "username":"poppyvisions"
         },
         "text":"@[u:497098347469032787] So inspiring and joyful. lovely palette. Keep it traveling!",
         "mentions":[
           {
             "id":NumberLong(497098347469032787),
-            "username":"carole_c7632"
+            "username":"rippleloom"
           }
         ]
       }
@@ -2305,13 +2288,13 @@
     "id":NumberLong(3494832067630336451),
     "creator":{
       "id":NumberLong(576448202816727637),
-      "username":"la.psy.claire",
+      "username":"bramblestory",
       "picture":{
         "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/la.psy.claire.jpg"
       }
     },
     "caption":{
-      "text":"Ocean tones for this wandering rock 🌊 Hidden for someone curious to find."
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message carry it onward. Little hint: look under the second bench by the old wall."
     },
     "likes_count":NumberInt(11),
     "comments_count":NumberInt(0),
