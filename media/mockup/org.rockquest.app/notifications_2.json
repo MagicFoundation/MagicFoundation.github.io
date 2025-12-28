@@ -23,7 +23,8 @@
       "height":NumberInt(900)
     },
     "created_at":ISODate("2025-03-01T06:19:36.268Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(222821959635284219)
   },
   {
     "id":NumberLong(6278296734118291043),
@@ -43,7 +44,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2025-03-09T20:25:17.601Z"),
-    "type":"rock_missed"
+    "type":"rock_missed",
+    "rock_id":NumberLong(6278296734118291043)
   },
   {
     "id":NumberLong(5160006756546240592),
@@ -69,7 +71,8 @@
       "height":NumberInt(640)
     },
     "created_at":ISODate("2024-11-22T08:40:58.499Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(5160006756546240592)
   },
   {
     "id":NumberLong(516464025019811076),
@@ -95,7 +98,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2025-08-12T06:27:13.025Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(516464025019811076)
   },
   {
     "id":NumberLong(7482081161458971746),
@@ -122,7 +126,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2025-01-04T21:32:44.653Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(7482081161458971746)
   },
   {
     "id":NumberLong(5181586121737762103),
@@ -148,7 +153,8 @@
       "height":NumberInt(724)
     },
     "created_at":ISODate("2024-03-11T15:47:47.918Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(5181586121737762103)
   },
   {
     "id":NumberLong(1003599257256963723),
@@ -169,7 +175,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-07-25T20:46:16.185Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(1003599257256963723)
   },
   {
     "id":NumberLong(8845778197739749355),
@@ -195,7 +202,8 @@
       "height":NumberInt(720)
     },
     "created_at":ISODate("2024-03-07T07:13:09.480Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(8845778197739749355)
   },
   {
     "id":NumberLong(9146126980320829104),
@@ -221,7 +229,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-04-08T06:12:36.401Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(9146126980320829104)
   },
   {
     "id":NumberLong(658605520869468786),
@@ -248,7 +257,8 @@
     },
     "created_at":ISODate("2025-05-01T19:49:32.531Z"),
     "found_at":ISODate("2025-08-20T14:02:15.136Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(658605520869468786)
   },
   {
     "id":NumberLong(8783085464738214311),
@@ -278,7 +288,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2023-12-28T04:54:43.309Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(8783085464738214311)
   },
   {
     "id":NumberLong(7131153288848308751),
@@ -304,7 +315,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-02-22T18:17:00.919Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(7131153288848308751)
   },
   {
     "id":NumberLong(1581520622087586433),
@@ -330,7 +342,8 @@
       "height":NumberInt(1350)
     },
     "created_at":ISODate("2025-05-20T10:52:29.334Z"),
-    "type":"rock_missed"
+    "type":"rock_missed",
+    "rock_id":NumberLong(1581520622087586433)
   },
   {
     "id":NumberLong(7039401381591983298),
@@ -354,7 +367,8 @@
       "height":NumberInt(1280)
     },
     "created_at":ISODate("2025-03-18T09:53:27.133Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(7039401381591983298)
   },
   {
     "id":NumberLong(940484275794730961),
@@ -374,7 +388,8 @@
       "height":NumberInt(1079)
     },
     "created_at":ISODate("2025-04-17T06:18:35.186Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(940484275794730961)
   },
   {
     "id":NumberLong(3438609043939672661),
@@ -404,7 +419,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2023-09-05T06:58:02.115Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(3438609043939672661)
   },
   {
     "id":NumberLong(5413519144870751638),
@@ -431,7 +447,8 @@
     },
     "created_at":ISODate("2024-07-04T00:20:00.193Z"),
     "found_at":ISODate("2025-08-14T21:19:38.075Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(5413519144870751638)
   },
   {
     "id":NumberLong(7021318286787719228),
@@ -457,7 +474,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-10-06T14:23:37.676Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(7021318286787719228)
   },
   {
     "id":NumberLong(32731792137824633),
@@ -478,7 +496,8 @@
     },
     "created_at":ISODate("2025-01-12T16:27:31.088Z"),
     "found_at":ISODate("2025-08-23T17:14:01.109Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(32731792137824633)
   },
   {
     "id":NumberLong(1159007557527341133),
@@ -505,7 +524,8 @@
     },
     "created_at":ISODate("2025-04-12T03:00:43.756Z"),
     "found_at":ISODate("2025-08-22T00:45:12.330Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(1159007557527341133)
   },
   {
     "id":NumberLong(7103286985510264658),
@@ -531,7 +551,8 @@
       "height":NumberInt(1350)
     },
     "created_at":ISODate("2024-03-20T17:53:03.572Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(7103286985510264658)
   },
   {
     "id":NumberLong(1787375504400843183),
@@ -551,7 +572,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-06-17T02:18:23.892Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(1787375504400843183)
   },
   {
     "id":NumberLong(4887990393168217462),
@@ -577,7 +599,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-08-31T02:41:50.751Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(4887990393168217462)
   },
   {
     "id":NumberLong(7444680499847170300),
@@ -603,7 +626,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-02-15T04:27:02.650Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(7444680499847170300)
   },
   {
     "id":NumberLong(2447525688038983596),
@@ -633,7 +657,8 @@
       "height":NumberInt(854)
     },
     "created_at":ISODate("2024-01-22T07:14:27.522Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(2447525688038983596)
   },
   {
     "id":NumberLong(6852943132683160255),
@@ -659,7 +684,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-12-04T14:36:53.596Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(6852943132683160255)
   },
   {
     "id":NumberLong(6978812138425474805),
@@ -685,7 +711,8 @@
       "height":NumberInt(720)
     },
     "created_at":ISODate("2024-01-30T08:03:14.294Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(6978812138425474805)
   },
   {
     "id":NumberLong(7355864034824741243),
@@ -711,7 +738,8 @@
       "height":NumberInt(720)
     },
     "created_at":ISODate("2023-11-02T16:08:20.863Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(7355864034824741243)
   },
   {
     "id":NumberLong(6770714081054406041),
@@ -741,7 +769,8 @@
       "height":NumberInt(1280)
     },
     "created_at":ISODate("2024-12-20T23:10:34.200Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(6770714081054406041)
   },
   {
     "id":NumberLong(8320618288510254614),
@@ -767,7 +796,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2025-01-03T03:15:59.044Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(8320618288510254614)
   },
   {
     "id":NumberLong(88104531441449305),
@@ -793,7 +823,8 @@
       "height":NumberInt(815)
     },
     "created_at":ISODate("2025-04-17T07:15:02.760Z"),
-    "type":"rock_missed"
+    "type":"rock_missed",
+    "rock_id":NumberLong(88104531441449305)
   },
   {
     "id":NumberLong(1865057466883087648),
@@ -813,7 +844,8 @@
       "height":NumberInt(1180)
     },
     "created_at":ISODate("2024-10-06T17:15:55.677Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(1865057466883087648)
   },
   {
     "id":NumberLong(7046395684111623177),
@@ -839,7 +871,8 @@
       "height":NumberInt(1350)
     },
     "created_at":ISODate("2025-07-07T02:28:27.998Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(7046395684111623177)
   },
   {
     "id":NumberLong(7989909397005412834),
@@ -859,7 +892,8 @@
       "height":NumberInt(1102)
     },
     "created_at":ISODate("2024-01-25T07:03:08.950Z"),
-    "type":"rock_missed"
+    "type":"rock_missed",
+    "rock_id":NumberLong(7989909397005412834)
   },
   {
     "id":NumberLong(3076068956138651083),
@@ -885,7 +919,8 @@
       "height":NumberInt(1298)
     },
     "created_at":ISODate("2025-07-31T14:00:36.143Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(3076068956138651083)
   },
   {
     "id":NumberLong(4498022929144251526),
@@ -905,7 +940,8 @@
       "height":NumberInt(1284)
     },
     "created_at":ISODate("2024-06-01T03:02:41.471Z"),
-    "type":"rock_comment_liked"
+    "type":"rock_comment_liked",
+    "rock_id":NumberLong(4498022929144251526)
   },
   {
     "id":NumberLong(4708841522451293567),
@@ -932,7 +968,8 @@
     },
     "created_at":ISODate("2024-04-01T14:03:48.308Z"),
     "found_at":ISODate("2025-08-24T04:00:29.442Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(4708841522451293567)
   },
   {
     "id":NumberLong(7878120795391100019),
@@ -958,7 +995,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-04-18T21:24:05.565Z"),
-    "type":"rock_liked"
+    "type":"rock_liked",
+    "rock_id":NumberLong(7878120795391100019)
   },
   {
     "id":NumberLong(1271651533979591987),
@@ -979,7 +1017,8 @@
     },
     "created_at":ISODate("2023-09-24T08:28:41.346Z"),
     "found_at":ISODate("2025-08-04T20:39:51.661Z"),
-    "type":"rock_commented"
+    "type":"rock_commented",
+    "rock_id":NumberLong(1271651533979591987)
   },
   {
     "id":NumberLong(9008575476537929298),
@@ -999,7 +1038,8 @@
       "height":NumberInt(992)
     },
     "created_at":ISODate("2023-10-21T10:51:20.802Z"),
-    "type":"rock_missed"
+    "type":"rock_missed",
+    "rock_id":NumberLong(9008575476537929298)
   },
   {
     "id":NumberLong(89845934565946372),
@@ -1025,7 +1065,8 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2024-06-12T15:34:07.040Z"),
-    "type":"rock_rehidden"
+    "type":"rock_rehidden",
+    "rock_id":NumberLong(89845934565946372)
   },
   {
     "id":NumberLong(2003614302869843153),
@@ -1051,6 +1092,7 @@
       "height":NumberInt(1080)
     },
     "created_at":ISODate("2025-07-20T06:55:54.166Z"),
-    "type":"rock_found"
+    "type":"rock_found",
+    "rock_id":NumberLong(2003614302869843153)
   }
 ]
