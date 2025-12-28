@@ -12,11 +12,13 @@
       "text":"A tiny traveler with bright edges and soft shadows, sealed for the trail."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-02_18-22-08_UTC.jpg",
-        "width":NumberInt(719),
-        "height":NumberInt(719)
-      },
-    "created_at":ISODate("2025-05-16T04:32:17.826Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-02_18-22-08_UTC.jpg",
+      "width":NumberInt(719),
+      "height":NumberInt(719)
+    },
+    "created_at":ISODate("2025-05-16T04:32:17.826Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(7550274040617759761),
     "actor":{
@@ -31,15 +33,17 @@
     },
     "misses_count":NumberInt(3),
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-29_07-46-37_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-29_07-46-37_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1280)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-29_07-46-37_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-29_07-46-37_UTC.jpg"
       },
-    "created_at":ISODate("2024-05-25T09:06:20.243Z")},
+      "width":NumberInt(720),
+      "height":NumberInt(1280)
+    },
+    "created_at":ISODate("2024-05-25T09:06:20.243Z"),
+    "type":"rock_liked"
+  },
   {
     "id":NumberLong(1897847581424761211),
     "actor":{
@@ -47,7 +51,7 @@
       "username":"whispersong"
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; guided by <@userid:2700630848338542984>, then off it goes. Hint: look on the sunny side of the small bridge.",
+      "text":"A bright hideaway waits near the trail; guided by \u003C@userid:2700630848338542984\u003E, then off it goes. Hint: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(2700630848338542984),
@@ -56,11 +60,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-15_21-56-13_UTC.jpg",
-        "width":NumberInt(400),
-        "height":NumberInt(400)
-      },
-    "created_at":ISODate("2025-05-06T15:34:17.525Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-15_21-56-13_UTC.jpg",
+      "width":NumberInt(400),
+      "height":NumberInt(400)
+    },
+    "created_at":ISODate("2025-05-06T15:34:17.525Z"),
+    "type":"rock_rehidden"
   },
   {
     "id":NumberLong(3897020376136735789),
@@ -72,7 +77,7 @@
       }
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; with the help of <@userid:1594355936476222509>, then off it goes.",
+      "text":"A bright hideaway waits near the trail; with the help of \u003C@userid:1594355936476222509\u003E, then off it goes.",
       "mentions":[
         {
           "id":NumberLong(1594355936476222509),
@@ -81,12 +86,14 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-05-04_11-11-23_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-05-04_11-11-23_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
     "created_at":ISODate("2024-02-05T19:31:56.331Z"),
-    "found_at":ISODate("2025-08-20T14:02:15.136Z")},
+    "found_at":ISODate("2025-08-20T14:02:15.136Z"),
+    "type":"rock_rehidden"
+  },
   {
     "id":NumberLong(4738458542185377447),
     "actor":{
@@ -97,11 +104,13 @@
       "text":"Some stones carry stories from the water’s edge; after the final clear coat I set this one where light flickers under leaves and footsteps slow for a second look. Little hint: look behind the blue gate near the footbridge."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-08_16-44-24_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-12-21T09:58:25.349Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-08_16-44-24_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-12-21T09:58:25.349Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(2019686225638849901),
     "actor":{
@@ -109,7 +118,7 @@
       "username":"brookdreams"
     },
     "comment":{
-      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; a small credit to <@userid:6816841077580579511>, and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Hint: look on the sunny side of the small bridge.",
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; a small credit to \u003C@userid:6816841077580579511\u003E, and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Hint: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(6816841077580579511),
@@ -118,12 +127,14 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-13_16-29-09_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1350)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-13_16-29-09_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1350)
+    },
     "created_at":ISODate("2024-05-12T15:43:14.806Z"),
-    "found_at":ISODate("2025-08-22T00:45:12.330Z")},
+    "found_at":ISODate("2025-08-22T00:45:12.330Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(4786706528266268870),
     "actor":{
@@ -134,7 +145,7 @@
       }
     },
     "comment":{
-      "text":"Fresh paint, soft edges, and a tiny wish to wander; a tip from <@userid:4586681203524208188>, now tucked for a new traveler. Little hint: look beneath the low branch beside the trail marker.",
+      "text":"Fresh paint, soft edges, and a tiny wish to wander; a tip from \u003C@userid:4586681203524208188\u003E, now tucked for a new traveler. Little hint: look beneath the low branch beside the trail marker.",
       "mentions":[
         {
           "id":NumberLong(4586681203524208188),
@@ -144,11 +155,12 @@
     },
     "misses_count":NumberInt(2),
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-04-12_16-54-37_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-11-06T15:39:55.632Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-04-12_16-54-37_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-11-06T15:39:55.632Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(9073920834482692356),
@@ -160,7 +172,7 @@
       }
     },
     "comment":{
-      "text":"Layer after layer, the colors calmed until the shapes felt certain; cheered on by <@userid:1924366700618363765>, and now it waits for curious hands before traveling on. Quick clue: look under the second bench by the old wall.",
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; cheered on by \u003C@userid:1924366700618363765\u003E, and now it waits for curious hands before traveling on. Quick clue: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(1924366700618363765),
@@ -169,11 +181,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-11-03_11-30-51_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1350)
-      },
-    "created_at":ISODate("2024-05-31T06:59:21.989Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-11-03_11-30-51_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1350)
+    },
+    "created_at":ISODate("2024-05-31T06:59:21.989Z"),
+    "type":"rock_commented"
   },
   {
     "id":NumberLong(406871753798139111),
@@ -185,7 +198,7 @@
       }
     },
     "comment":{
-      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by <@userid:8576785635914973386>, and the dotted rim leaves a clue for the next finder.",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by \u003C@userid:8576785635914973386\u003E, and the dotted rim leaves a clue for the next finder.",
       "mentions":[
         {
           "id":NumberLong(8576785635914973386),
@@ -194,11 +207,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-13_16-10-41_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2025-07-24T04:46:21.386Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-13_16-10-41_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2025-07-24T04:46:21.386Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(3927543280551069328),
@@ -210,7 +224,7 @@
       }
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; a small credit to <@userid:3014866707999453033>, then off it goes. Hint: look tucked by the corner of the stone fountain.",
+      "text":"A bright hideaway waits near the trail; a small credit to \u003C@userid:3014866707999453033\u003E, then off it goes. Hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(3014866707999453033),
@@ -219,11 +233,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2019-08-01_17-54-17_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-07-10T02:43:39.000Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2019-08-01_17-54-17_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-07-10T02:43:39.000Z"),
+    "type":"rock_commented"
   },
   {
     "id":NumberLong(1427054385270330539),
@@ -235,7 +250,7 @@
       }
     },
     "comment":{
-      "text":"Layer after layer, the colors calmed until the shapes felt certain; inspired by <@userid:2742602683757846071>, and now it waits for curious hands before traveling on. Trail tip: look under the second bench by the old wall.",
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; inspired by \u003C@userid:2742602683757846071\u003E, and now it waits for curious hands before traveling on. Trail tip: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(2742602683757846071),
@@ -244,11 +259,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-05-20_23-39-02_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1350)
-      },
-    "created_at":ISODate("2025-07-07T00:46:47.544Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-05-20_23-39-02_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1350)
+    },
+    "created_at":ISODate("2025-07-07T00:46:47.544Z"),
+    "type":"rock_comment_liked"
   },
   {
     "id":NumberLong(9153439059410262302),
@@ -263,12 +279,13 @@
       "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together, tucked beside a path marker so a stranger can feel that quiet spark and pass it along. Little hint: look under a flat stone near the picnic table."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-17_12-41-28_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1136)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-17_12-41-28_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1136)
+    },
     "created_at":ISODate("2024-09-21T01:43:32.256Z"),
-    "found_at":ISODate("2025-08-01T08:59:38.636Z")
+    "found_at":ISODate("2025-08-01T08:59:38.636Z"),
+    "type":"rock_liked"
   },
   {
     "id":NumberLong(3687684783824542224),
@@ -283,11 +300,12 @@
       "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight. Quick clue: look on the sunny side of the small bridge."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-08_15-53-59_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-08-21T18:24:01.197Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-08_15-53-59_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-08-21T18:24:01.197Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(5268292282323246253),
@@ -299,7 +317,7 @@
       }
     },
     "comment":{
-      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; guided by <@userid:274956742377446972>, and the dotted rim leaves a clue for the next finder.",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; guided by \u003C@userid:274956742377446972\u003E, and the dotted rim leaves a clue for the next finder.",
       "mentions":[
         {
           "id":NumberLong(274956742377446972),
@@ -308,12 +326,13 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-05-16_17-11-29_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-05-16_17-11-29_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
     "created_at":ISODate("2024-09-17T15:14:04.592Z"),
-    "found_at":ISODate("2025-08-10T11:06:19.427Z")
+    "found_at":ISODate("2025-08-10T11:06:19.427Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(2841762006371911592),
@@ -328,11 +347,13 @@
       "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-10-21_17-27-11_UTC.jpg",
-        "width":NumberInt(1072),
-        "height":NumberInt(1072)
-      },
-    "created_at":ISODate("2025-07-08T22:23:59.364Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-10-21_17-27-11_UTC.jpg",
+      "width":NumberInt(1072),
+      "height":NumberInt(1072)
+    },
+    "created_at":ISODate("2025-07-08T22:23:59.364Z"),
+    "type":"rock_commented"
+  },
   {
     "id":NumberLong(6148377876101668078),
     "actor":{
@@ -346,11 +367,13 @@
       "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together, tucked beside a path marker so a stranger can feel that quiet spark and pass it along. Hint: look tucked by the corner of the stone fountain."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-08-24_11-43-04_UTC.jpg",
-        "width":NumberInt(960),
-        "height":NumberInt(960)
-      },
-    "created_at":ISODate("2025-04-21T05:15:54.680Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-08-24_11-43-04_UTC.jpg",
+      "width":NumberInt(960),
+      "height":NumberInt(960)
+    },
+    "created_at":ISODate("2025-04-21T05:15:54.680Z"),
+    "type":"rock_missed"
+  },
   {
     "id":NumberLong(7614148112396289981),
     "actor":{
@@ -361,11 +384,12 @@
       }
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-09-02_09-41-50_UTC.jpg",
-        "width":NumberInt(973),
-        "height":NumberInt(973)
-      },
-    "created_at":ISODate("2024-12-22T08:33:26.845Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-09-02_09-41-50_UTC.jpg",
+      "width":NumberInt(973),
+      "height":NumberInt(973)
+    },
+    "created_at":ISODate("2024-12-22T08:33:26.845Z"),
+    "type":"rock_missed"
   },
   {
     "id":NumberLong(9035301144706084429),
@@ -377,7 +401,7 @@
       }
     },
     "comment":{
-      "text":"Some stones carry stories from the water’s edge; this one felt like a pocket postcard; after the final clear coat, thanks <@userid:4890508439740804181> for the idea, I set it where light flickers under leaves and footsteps slow for a second look. Quick clue: look near the mossy stump just past the bend.",
+      "text":"Some stones carry stories from the water’s edge; this one felt like a pocket postcard; after the final clear coat, thanks \u003C@userid:4890508439740804181\u003E for the idea, I set it where light flickers under leaves and footsteps slow for a second look. Quick clue: look near the mossy stump just past the bend.",
       "mentions":[
         {
           "id":NumberLong(4890508439740804181),
@@ -386,11 +410,13 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-25_13-24-46_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-10-08T11:15:13.429Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-25_13-24-46_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-10-08T11:15:13.429Z"),
+    "type":"rock_liked"
+  },
   {
     "id":NumberLong(2503130178380547667),
     "actor":{
@@ -401,7 +427,7 @@
       }
     },
     "comment":{
-      "text":"Ocean blues layered into calm; color advice from <@userid:452856248432185649>, sealed and ready to roam. Little hint: look on the sunny side of the small bridge.",
+      "text":"Ocean blues layered into calm; color advice from \u003C@userid:452856248432185649\u003E, sealed and ready to roam. Little hint: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(452856248432185649),
@@ -410,15 +436,16 @@
       ]
     },
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-23_13-07-46_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-23_13-07-46_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1278)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-23_13-07-46_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-23_13-07-46_UTC.jpg"
       },
-    "created_at":ISODate("2025-05-13T07:13:24.771Z")
+      "width":NumberInt(720),
+      "height":NumberInt(1278)
+    },
+    "created_at":ISODate("2025-05-13T07:13:24.771Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(1440481587934252549),
@@ -430,7 +457,7 @@
       }
     },
     "comment":{
-      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, guided by <@userid:6265404287597890724>, then fades to gentle gray so it can hide in plain sight. Little hint: look at the base of the tallest pine by the clearing.",
+      "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, guided by \u003C@userid:6265404287597890724\u003E, then fades to gentle gray so it can hide in plain sight. Little hint: look at the base of the tallest pine by the clearing.",
       "mentions":[
         {
           "id":NumberLong(6265404287597890724),
@@ -439,11 +466,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-08-16_08-15-56_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-10-19T01:04:57.752Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-08-16_08-15-56_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-10-19T01:04:57.752Z"),
+    "type":"rock_commented"
   },
   {
     "id":NumberLong(938069434430432523),
@@ -458,15 +486,16 @@
       "text":"Quick sketch on smooth granite, finished with a thin line to keep it steady. Tiny hint: look on the sunny side of the small bridge."
     },
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-22_04-37-03_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-22_04-37-03_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1280)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-22_04-37-03_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-22_04-37-03_UTC.jpg"
       },
-    "created_at":ISODate("2024-04-23T07:11:50.823Z")
+      "width":NumberInt(720),
+      "height":NumberInt(1280)
+    },
+    "created_at":ISODate("2024-04-23T07:11:50.823Z"),
+    "type":"rock_comment_liked"
   },
   {
     "id":NumberLong(3188490546788403021),
@@ -481,11 +510,13 @@
       "text":"Between coffee sips and brushstrokes, this pebble picked up its own little story, and the dotted rim leaves a clue for the next finder. Quick clue: look on the sunny side of the small bridge."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-08-20_19-21-17_UTC.jpg",
-        "width":NumberInt(720),
-        "height":NumberInt(720)
-      },
-    "created_at":ISODate("2024-07-07T05:15:55.906Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-08-20_19-21-17_UTC.jpg",
+      "width":NumberInt(720),
+      "height":NumberInt(720)
+    },
+    "created_at":ISODate("2024-07-07T05:15:55.906Z"),
+    "type":"rock_liked"
+  },
   {
     "id":NumberLong(3005090943720611065),
     "actor":{
@@ -499,11 +530,12 @@
       "text":"Layer after layer, the colors calmed until the shapes felt certain; now it waits for curious hands before traveling on. Quick clue: look behind the information board by the car park."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-04-28_18-28-22_UTC_1.jpg",
-        "width":NumberInt(806),
-        "height":NumberInt(805)
-      },
-    "created_at":ISODate("2023-11-15T04:51:12.686Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-04-28_18-28-22_UTC_1.jpg",
+      "width":NumberInt(806),
+      "height":NumberInt(805)
+    },
+    "created_at":ISODate("2023-11-15T04:51:12.686Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(9103859108777063999),
@@ -518,12 +550,13 @@
       "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight. Trail tip: look tucked by the corner of the stone fountain."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-09_08-01-30_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-08-09_08-01-30_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
     "created_at":ISODate("2025-04-03T18:38:13.687Z"),
-    "found_at":ISODate("2025-08-21T23:17:40.605Z")
+    "found_at":ISODate("2025-08-21T23:17:40.605Z"),
+    "type":"rock_liked"
   },
   {
     "id":NumberLong(7891713851564434877),
@@ -535,7 +568,7 @@
       }
     },
     "comment":{
-      "text":"Layer after layer, the colors calmed until the shapes felt certain; a tip from <@userid:2736604585277333255>, and now it waits for curious hands before traveling on. Hint: look under the second bench by the old wall.",
+      "text":"Layer after layer, the colors calmed until the shapes felt certain; a tip from \u003C@userid:2736604585277333255\u003E, and now it waits for curious hands before traveling on. Hint: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(2736604585277333255),
@@ -544,15 +577,16 @@
       ]
     },
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-06-23_08-35-19_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-06-23_08-35-19_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1280)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-06-23_08-35-19_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-06-23_08-35-19_UTC.jpg"
       },
-    "created_at":ISODate("2024-09-07T21:29:08.813Z")
+      "width":NumberInt(720),
+      "height":NumberInt(1280)
+    },
+    "created_at":ISODate("2024-09-07T21:29:08.813Z"),
+    "type":"rock_missed"
   },
   {
     "id":NumberLong(2645035431250357172),
@@ -564,7 +598,7 @@
       }
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; a tip from <@userid:3498799111328064332>, then off it goes. Quick clue: look under a flat stone near the picnic table.",
+      "text":"A bright hideaway waits near the trail; a tip from \u003C@userid:3498799111328064332\u003E, then off it goes. Quick clue: look under a flat stone near the picnic table.",
       "mentions":[
         {
           "id":NumberLong(3498799111328064332),
@@ -573,11 +607,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-07-26_19-40-20_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-12-19T07:02:28.622Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-07-26_19-40-20_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-12-19T07:02:28.622Z"),
+    "type":"rock_rehidden"
   },
   {
     "id":NumberLong(298007875730369345),
@@ -592,11 +627,12 @@
       "text":"A tiny traveler with bright edges and soft shadows, sealed for the trail. Tiny hint: look tucked by the corner of the stone fountain."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-03-26_10-49-03_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-06-01T15:48:24.520Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-03-26_10-49-03_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-06-01T15:48:24.520Z"),
+    "type":"rock_commented"
   },
   {
     "id":NumberLong(404074995555557835),
@@ -608,7 +644,7 @@
       }
     },
     "comment":{
-      "text":"Ocean blues layered into calm; thanks <@userid:4177007368105052573> for the help, sealed and ready to roam. Little hint: look tucked by the corner of the stone fountain.",
+      "text":"Ocean blues layered into calm; thanks \u003C@userid:4177007368105052573\u003E for the help, sealed and ready to roam. Little hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(4177007368105052573),
@@ -617,11 +653,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-12_21-54-57_UTC.jpg",
-        "width":NumberInt(720),
-        "height":NumberInt(720)
-      },
-    "created_at":ISODate("2024-01-03T05:30:10.929Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-12_21-54-57_UTC.jpg",
+      "width":NumberInt(720),
+      "height":NumberInt(720)
+    },
+    "created_at":ISODate("2024-01-03T05:30:10.929Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(6253191146281346483),
@@ -633,7 +670,7 @@
       }
     },
     "comment":{
-      "text":"Ocean blues layered into calm; inspired by <@userid:4455962596089681768>, sealed and ready to roam. Quick clue: look on the sunny side of the small bridge.",
+      "text":"Ocean blues layered into calm; inspired by \u003C@userid:4455962596089681768\u003E, sealed and ready to roam. Quick clue: look on the sunny side of the small bridge.",
       "mentions":[
         {
           "id":NumberLong(4455962596089681768),
@@ -642,11 +679,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-08_16-34-47_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2025-03-19T13:49:51.346Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2025-03-08_16-34-47_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2025-03-19T13:49:51.346Z"),
+    "type":"rock_commented"
   },
   {
     "id":NumberLong(8390149122222146883),
@@ -658,7 +696,7 @@
       }
     },
     "comment":{
-      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; a small credit to <@userid:3889061766441240554>, and the dotted rim leaves a clue for the next finder. Trail tip: look tucked by the corner of the stone fountain.",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; a small credit to \u003C@userid:3889061766441240554\u003E, and the dotted rim leaves a clue for the next finder. Trail tip: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(3889061766441240554),
@@ -667,12 +705,14 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-08-11_10-51-03_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1350)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-08-11_10-51-03_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1350)
+    },
     "created_at":ISODate("2024-08-19T11:07:38.723Z"),
-    "found_at":ISODate("2025-07-27T08:14:44.321Z")},
+    "found_at":ISODate("2025-07-27T08:14:44.321Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(2505101236659153483),
     "actor":{
@@ -686,11 +726,13 @@
       "text":"Quick sketch on smooth granite, finished with a thin line to keep it steady. Hint: look behind the information board by the car park."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-05-22_16-36-04_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(608)
-      },
-    "created_at":ISODate("2023-10-13T04:09:47.732Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-05-22_16-36-04_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(608)
+    },
+    "created_at":ISODate("2023-10-13T04:09:47.732Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(5848493557167322594),
     "actor":{
@@ -701,7 +743,7 @@
       }
     },
     "comment":{
-      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; cheered on by <@userid:8439219487398192012>, and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Trail tip: look at the base of the tallest pine by the clearing.",
+      "text":"This small canvas took shape during a slow morning: sketch first, then color layers, then a clean line that ties it together; cheered on by \u003C@userid:8439219487398192012\u003E, and I tucked it beside a path marker so a stranger can feel that quiet spark and pass it along. Trail tip: look at the base of the tallest pine by the clearing.",
       "mentions":[
         {
           "id":NumberLong(8439219487398192012),
@@ -711,11 +753,13 @@
     },
     "misses_count":NumberInt(5),
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-10-22_10-20-39_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1350)
-      },
-    "created_at":ISODate("2023-11-06T02:24:57.166Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-10-22_10-20-39_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1350)
+    },
+    "created_at":ISODate("2023-11-06T02:24:57.166Z"),
+    "type":"rock_found"
+  },
   {
     "id":NumberLong(8902595827398485459),
     "actor":{
@@ -726,7 +770,7 @@
       }
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; a small credit to <@userid:8190676328002888889>, then off it goes. Trail tip: look behind the information board by the car park.",
+      "text":"A bright hideaway waits near the trail; a small credit to \u003C@userid:8190676328002888889\u003E, then off it goes. Trail tip: look behind the information board by the car park.",
       "mentions":[
         {
           "id":NumberLong(8190676328002888889),
@@ -735,11 +779,13 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-08-03_06-00-13_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(810)
-      },
-    "created_at":ISODate("2024-02-09T21:21:08.329Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-08-03_06-00-13_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(810)
+    },
+    "created_at":ISODate("2024-02-09T21:21:08.329Z"),
+    "type":"rock_liked"
+  },
   {
     "id":NumberLong(9075616211596216650),
     "actor":{
@@ -750,7 +796,7 @@
       }
     },
     "comment":{
-      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, a tip from <@userid:3163537804723199247>, carry it onward. Quick clue: look behind the blue gate near the footbridge.",
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, a tip from \u003C@userid:3163537804723199247\u003E, carry it onward. Quick clue: look behind the blue gate near the footbridge.",
       "mentions":[
         {
           "id":NumberLong(3163537804723199247),
@@ -760,15 +806,16 @@
     },
     "misses_count":NumberInt(3),
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-06_13-33-22_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-06_13-33-22_UTC.jpg"
-        },
-        "width":NumberInt(360),
-        "height":NumberInt(640)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-06_13-33-22_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-12-06_13-33-22_UTC.jpg"
       },
-    "created_at":ISODate("2025-02-21T06:55:45.166Z")
+      "width":NumberInt(360),
+      "height":NumberInt(640)
+    },
+    "created_at":ISODate("2025-02-21T06:55:45.166Z"),
+    "type":"rock_missed"
   },
   {
     "id":NumberLong(4773124193774323045),
@@ -780,7 +827,7 @@
       }
     },
     "comment":{
-      "text":"A bright hideaway waits near the trail; a tip from <@userid:5458499496307786655>, then off it goes. Trail tip: look under the second bench by the old wall.",
+      "text":"A bright hideaway waits near the trail; a tip from \u003C@userid:5458499496307786655\u003E, then off it goes. Trail tip: look under the second bench by the old wall.",
       "mentions":[
         {
           "id":NumberLong(5458499496307786655),
@@ -789,11 +836,13 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-04_18-10-38_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-04-22T16:05:48.034Z")},
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-11-04_18-10-38_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-04-22T16:05:48.034Z"),
+    "type":"rock_comment_liked"
+  },
   {
     "id":NumberLong(1323211994550709649),
     "actor":{
@@ -807,11 +856,12 @@
       "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes. Trail tip: look behind the information board by the car park."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-07-26_16-15-14_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2025-07-25T18:12:26.609Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-07-26_16-15-14_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2025-07-25T18:12:26.609Z"),
+    "type":"rock_liked"
   },
   {
     "id":NumberLong(7301391047183351263),
@@ -823,7 +873,7 @@
       }
     },
     "comment":{
-      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, cheered on by <@userid:7547115020751301019>, carry it onward. Tiny hint: look tucked by the corner of the stone fountain.",
+      "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message, cheered on by \u003C@userid:7547115020751301019\u003E, carry it onward. Tiny hint: look tucked by the corner of the stone fountain.",
       "mentions":[
         {
           "id":NumberLong(7547115020751301019),
@@ -832,11 +882,12 @@
       ]
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-02_16-30-13_UTC_1.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(810)
-      },
-    "created_at":ISODate("2025-07-24T08:08:25.856Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-09-02_16-30-13_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(810)
+    },
+    "created_at":ISODate("2025-07-24T08:08:25.856Z"),
+    "type":"rock_liked"
   },
   {
     "id":NumberLong(6627131441062725180),
@@ -851,12 +902,13 @@
       "text":"Between coffee sips and brushstrokes, this pebble picked up its own little story, and the dotted rim leaves a clue for the next finder. Quick clue: look behind the blue gate near the footbridge."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-28_06-47-10_UTC.jpg",
-        "width":NumberInt(721),
-        "height":NumberInt(901)
-      },
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2018-09-28_06-47-10_UTC.jpg",
+      "width":NumberInt(721),
+      "height":NumberInt(901)
+    },
     "created_at":ISODate("2024-01-29T08:38:58.382Z"),
-    "found_at":ISODate("2025-07-29T19:32:16.818Z")
+    "found_at":ISODate("2025-07-29T19:32:16.818Z"),
+    "type":"rock_found"
   },
   {
     "id":NumberLong(7938570752870391576),
@@ -871,15 +923,16 @@
       "text":"Ocean blues layered until they hum, a pocket-sized calm for curious eyes. Quick clue: look under a flat stone near the picnic table."
     },
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-03-13_18-16-53_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-03-13_18-16-53_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1280)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-03-13_18-16-53_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2023-03-13_18-16-53_UTC.jpg"
       },
-    "created_at":ISODate("2024-10-23T10:20:55.641Z")
+      "width":NumberInt(720),
+      "height":NumberInt(1280)
+    },
+    "created_at":ISODate("2024-10-23T10:20:55.641Z"),
+    "type":"rock_rehidden"
   },
   {
     "id":NumberLong(4399609517343715595),
@@ -894,11 +947,12 @@
       "text":"Painted by the river and dried in the breeze; a stripe of sunlight runs across the face, then fades to gentle gray so it can hide in plain sight."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-06-16_21-00-32_UTC.jpg",
-        "width":NumberInt(808),
-        "height":NumberInt(808)
-      },
-    "created_at":ISODate("2024-11-26T05:16:57.030Z")
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-06-16_21-00-32_UTC.jpg",
+      "width":NumberInt(808),
+      "height":NumberInt(808)
+    },
+    "created_at":ISODate("2024-11-26T05:16:57.030Z"),
+    "type":"rock_missed"
   },
   {
     "id":NumberLong(5947626804830357328),
@@ -910,7 +964,7 @@
       }
     },
     "comment":{
-      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by <@userid:4938298060005964609>, and the dotted rim leaves a clue for the next finder. Tiny hint: look at the base of the tallest pine by the clearing.",
+      "text":"Between coffee sips and brushstrokes, this pebble picked up its story; cheered on by \u003C@userid:4938298060005964609\u003E, and the dotted rim leaves a clue for the next finder. Tiny hint: look at the base of the tallest pine by the clearing.",
       "mentions":[
         {
           "id":NumberLong(4938298060005964609),
@@ -920,15 +974,17 @@
     },
     "misses_count":NumberInt(6),
     "media":{
-        "type":NumberInt(2),
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2020-11-08_15-38-15_UTC.mp4",
-        "video_preview":{
-          "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2020-11-08_15-38-15_UTC.jpg"
-        },
-        "width":NumberInt(720),
-        "height":NumberInt(1336)
+      "type":NumberInt(2),
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2020-11-08_15-38-15_UTC.mp4",
+      "video_preview":{
+        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2020-11-08_15-38-15_UTC.jpg"
       },
-    "created_at":ISODate("2025-01-21T02:37:48.635Z")},
+      "width":NumberInt(720),
+      "height":NumberInt(1336)
+    },
+    "created_at":ISODate("2025-01-21T02:37:48.635Z"),
+    "type":"rock_commented"
+  },
   {
     "id":NumberLong(3494832067630336451),
     "actor":{
@@ -942,9 +998,11 @@
       "text":"I left it near a wooden gate after a long walk; bold lines and a hopeful message carry it onward. Little hint: look under the second bench by the old wall."
     },
     "media":{
-        "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-08-08_17-14-15_UTC.jpg",
-        "width":NumberInt(1080),
-        "height":NumberInt(1080)
-      },
-    "created_at":ISODate("2024-08-14T04:40:36.912Z")}
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-08-08_17-14-15_UTC.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    "created_at":ISODate("2024-08-14T04:40:36.912Z"),
+    "type":"rock_missed"
+  }
 ]
