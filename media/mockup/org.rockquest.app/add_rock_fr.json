@@ -1,0 +1,46 @@
+{
+  "id":NumberLong(8300149122822196883),
+  "creator":{
+    "id":NumberLong(4938298060005964609),
+    "username":"galet",
+    "picture":{
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/cocobm34.jpg"
+    }
+  },
+  "caption":{
+    "text":"J’ai peint ce galet au calme, puis je l’ai verni pour le voyage. Merci à <@userid:3889061766441240554> pour l’inspiration du bord pointillé: il aidera le prochain joueur. Indice: cherche près de l’angle de la fontaine en pierre.",
+    "mentions":[
+      {
+        "id":NumberLong(3889061766441240554),
+        "username":"pierre"
+      }
+    ]
+  },
+  "likes_count":NumberInt(0),
+  "comments_count":NumberInt(0),
+  "media":[
+    {
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-09-18_15-19-05_UTC_1.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    {
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-09-18_15-19-05_UTC_2.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    },
+    {
+      "source_url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2024-09-18_15-19-05_UTC_3.jpg",
+      "width":NumberInt(1080),
+      "height":NumberInt(1080)
+    }
+  ],
+  "location":{
+    "coordinates":[
+      2.024062,
+      44.039514
+    ]
+  },
+  "origin_id":NumberLong(3554032099959536927),
+  "created_at":ISODate("2024-08-19T11:07:38.723Z")
+}
