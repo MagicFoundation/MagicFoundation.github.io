@@ -44,7 +44,7 @@
     },
     "likes_count":NumberInt(32),
     "comments_count":NumberInt(0),
-    "misses_count":NumberInt(3),
+    "not_found_reports_count":NumberInt(3),
     "media":[
       {
         "type":"video",
@@ -318,7 +318,7 @@
     },
     "likes_count":NumberInt(17),
     "comments_count":NumberInt(0),
-    "misses_count":NumberInt(2),
+    "not_found_reports_count":NumberInt(2),
     "media":[
       {
         "url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2021-04-12_16-54-37_UTC.jpg",
@@ -1733,7 +1733,7 @@
     },
     "likes_count":NumberInt(13),
     "comments_count":NumberInt(10),
-    "misses_count":NumberInt(5),
+    "not_found_reports_count":NumberInt(5),
     "media":[
       {
         "url":"https://www.magicfoundation.io/media/mockup/org.rockquest.app/2022-10-22_10-20-39_UTC.jpg",
@@ -1851,7 +1851,7 @@
     },
     "likes_count":NumberInt(13750),
     "comments_count":NumberInt(0),
-    "misses_count":NumberInt(3),
+    "not_found_reports_count":NumberInt(3),
     "media":[
       {
         "type":"video",
@@ -2222,7 +2222,7 @@
     },
     "likes_count":NumberInt(287),
     "comments_count":NumberInt(4),
-    "misses_count":NumberInt(6),
+    "not_found_reports_count":NumberInt(6),
     "media":[
       {
         "type":"video",
